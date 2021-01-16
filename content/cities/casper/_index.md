@@ -1,6 +1,6 @@
 ---
 title: Casper
 url: /casper/
-latitude: 42.866632
-longitude: -106.31308100000001
+latitude: 42.849709000000004
+longitude: -106.3254928
 ---
