@@ -1,6 +1,5 @@
 id: 8309050143
 type: node
-shop: swimming pool
 latitude: 42.755550400000004
 longitude: -110.9338754
 postcode: "83110"
@@ -9,4 +8,4 @@ street: "North Washington Street"
 housenumber: 1160
 phone: "+1 307 249 8669"
 opening_hours: ""
-website: "escapenowspas.com"
+website: "https://escapenowspas.com/"

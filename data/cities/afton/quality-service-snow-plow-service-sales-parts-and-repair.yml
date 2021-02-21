@@ -1,6 +1,5 @@
 id: 8305577751
 type: node
-shop: car parts
 latitude: 42.7432031
 longitude: -110.93210610000001
 postcode: "83110"
@@ -9,4 +8,4 @@ street: "Burton Lane"
 housenumber: 40
 phone: "+1 307 884 8167"
 opening_hours: ""
-website: "http://www.snowplowstarvalley.com/"
+website: "https://www.snowplowstarvalley.com/"
