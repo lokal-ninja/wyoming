@@ -1,6 +1,6 @@
 ---
 title: Rock Springs
 url: /rock-springs/
-latitude: 41.5869225
-longitude: -109.20478670000001
+latitude: 41.5860557
+longitude: -109.2194544
 ---
