@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /gillette/bomgaars/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

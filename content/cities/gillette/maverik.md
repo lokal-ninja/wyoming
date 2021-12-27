@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /gillette/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

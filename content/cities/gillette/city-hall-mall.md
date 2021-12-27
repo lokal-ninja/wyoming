@@ -1,5 +1,5 @@
 ---
 title: "City Hall Mall"
 url: /gillette/city-hall-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

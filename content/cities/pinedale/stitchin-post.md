@@ -1,5 +1,5 @@
 ---
 title: "Stitchin' Post"
 url: /pinedale/stitchin-post/
-shop: tailor
+shop: Schneiderei
 ---

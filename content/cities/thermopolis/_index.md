@@ -1,6 +1,6 @@
 ---
 title: Thermopolis
 url: /thermopolis/
-latitude: 43.646067
-longitude: -108.21204300000001
+latitude: 43.647
+longitude: -108.212
 ---

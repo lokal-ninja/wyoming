@@ -1,5 +1,5 @@
 ---
 title: "Fresh Fruit"
 url: /thayne/fresh-fruit/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

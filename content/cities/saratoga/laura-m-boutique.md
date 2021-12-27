@@ -1,5 +1,5 @@
 ---
 title: "Laura M Boutique"
 url: /saratoga/laura-m-boutique/
-shop: clothes
+shop: Kleidung
 ---

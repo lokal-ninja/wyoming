@@ -1,6 +1,6 @@
 ---
 title: Boulder
 url: /boulder/
-latitude: 42.7482776
-longitude: -109.717646
+latitude: 42.605
+longitude: -109.635
 ---

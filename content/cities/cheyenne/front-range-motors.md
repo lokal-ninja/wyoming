@@ -1,5 +1,5 @@
 ---
 title: "Front Range Motors"
 url: /cheyenne/front-range-motors/
-shop: car
+shop: Autohaus
 ---

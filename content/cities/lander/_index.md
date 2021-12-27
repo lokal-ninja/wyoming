@@ -1,6 +1,6 @@
 ---
 title: Lander
 url: /lander/
-latitude: 42.8330755
-longitude: -108.73070200000001
+latitude: 42.833
+longitude: -108.733
 ---

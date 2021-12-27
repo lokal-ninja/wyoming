@@ -1,6 +1,6 @@
 ---
 title: Alcova
 url: /alcova/
-latitude: 42.5521887
-longitude: -106.71642390000001
+latitude: 42.566
+longitude: -106.714
 ---

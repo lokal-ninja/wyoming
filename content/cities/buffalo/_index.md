@@ -1,6 +1,6 @@
 ---
 title: Buffalo
 url: /buffalo/
-latitude: 44.3480865
-longitude: -106.69928700000001
+latitude: 44.347
+longitude: -106.699
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manville
 url: /manville/
-latitude: 42.779133800000004
-longitude: -104.61773600000001
+latitude: 42.765
+longitude: -104.926
 ---

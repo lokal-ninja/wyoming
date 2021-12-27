@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /gillette/maurices/
-shop: clothes
+shop: Kleidung
 ---
