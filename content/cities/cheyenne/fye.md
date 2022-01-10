@@ -1,5 +1,5 @@
 ---
 title: "FYE"
 url: /cheyenne/fye/
-shop: Musik
+shop: music
 ---

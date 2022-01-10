@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /afton/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

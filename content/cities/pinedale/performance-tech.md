@@ -1,5 +1,5 @@
 ---
 title: "Performance Tech"
 url: /pinedale/performance-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

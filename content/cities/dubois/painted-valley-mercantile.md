@@ -1,5 +1,5 @@
 ---
 title: "Painted Valley Mercantile"
 url: /dubois/painted-valley-mercantile/
-shop: Andenken
+shop: gift
 ---

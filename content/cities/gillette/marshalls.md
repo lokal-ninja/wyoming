@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /gillette/marshalls/
-shop: Warenhaus
+shop: department store
 ---

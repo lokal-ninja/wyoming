@@ -1,5 +1,5 @@
 ---
 title: "Lube Express"
 url: /casper/lube-express/
-shop: Autowerkstatt
+shop: car repair
 ---

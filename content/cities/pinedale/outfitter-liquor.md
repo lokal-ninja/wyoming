@@ -1,5 +1,5 @@
 ---
 title: "Outfitter Liquor"
 url: /pinedale/outfitter-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

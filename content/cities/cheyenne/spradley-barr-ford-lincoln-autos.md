@@ -1,5 +1,5 @@
 ---
 title: "Spradley Barr Ford Lincoln Autos"
 url: /cheyenne/spradley-barr-ford-lincoln-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

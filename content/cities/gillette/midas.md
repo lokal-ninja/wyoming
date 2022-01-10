@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /gillette/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

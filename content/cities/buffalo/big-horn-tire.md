@@ -1,5 +1,5 @@
 ---
 title: "Big Horn Tire"
 url: /buffalo/big-horn-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altitude Outdoors"
 url: /afton/altitude-outdoors/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trends Furniture"
 url: /gillette/trends-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Basecamp"
 url: /laramie/basecamp/
-shop: Sport
+shop: sports
 ---

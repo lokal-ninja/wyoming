@@ -1,5 +1,5 @@
 ---
 title: "Auto Doc"
 url: /pinedale/auto-doc/
-shop: Autowerkstatt
+shop: car repair
 ---

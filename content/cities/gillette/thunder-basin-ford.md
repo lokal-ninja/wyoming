@@ -1,5 +1,5 @@
 ---
 title: "Thunder Basin Ford"
 url: /gillette/thunder-basin-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Storage Stables"
 url: /jackson/storage-stables/
-shop: Mieten
+shop: storage rental
 ---

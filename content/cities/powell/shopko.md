@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /powell/shopko/
-shop: Warenhaus
+shop: department store
 ---

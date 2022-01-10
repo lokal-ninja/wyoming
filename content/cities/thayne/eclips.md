@@ -1,5 +1,5 @@
 ---
 title: "Eclips"
 url: /thayne/eclips/
-shop: Kosmetik
+shop: beauty
 ---

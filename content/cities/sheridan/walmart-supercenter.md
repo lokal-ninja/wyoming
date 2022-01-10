@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /sheridan/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

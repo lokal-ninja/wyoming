@@ -1,5 +1,5 @@
 ---
 title: "Beverage Broker"
 url: /gillette/beverage-broker/
-shop: Spirituosen
+shop: alcohol
 ---

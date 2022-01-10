@@ -1,5 +1,5 @@
 ---
 title: "Star Valley Powersports"
 url: /afton/star-valley-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

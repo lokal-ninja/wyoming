@@ -1,5 +1,5 @@
 ---
 title: "Aspens Market"
 url: /wilson/aspens-market/
-shop: Supermarkt
+shop: supermarket
 ---

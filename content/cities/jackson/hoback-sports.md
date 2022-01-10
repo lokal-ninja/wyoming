@@ -1,5 +1,5 @@
 ---
 title: "Hoback Sports"
 url: /jackson/hoback-sports/
-shop: Sport
+shop: sports
 ---

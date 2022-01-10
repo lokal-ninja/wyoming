@@ -1,5 +1,5 @@
 ---
 title: "Schwab Mortuary"
 url: /afton/schwab-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

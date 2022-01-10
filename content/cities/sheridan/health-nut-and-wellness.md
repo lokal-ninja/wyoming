@@ -1,5 +1,5 @@
 ---
 title: "Health Nut and Wellness"
 url: /sheridan/health-nut-and-wellness/
-shop: Bioladen
+shop: health food
 ---

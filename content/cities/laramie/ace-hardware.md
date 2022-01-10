@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /laramie/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

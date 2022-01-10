@@ -1,5 +1,5 @@
 ---
 title: "Truck Reapair Shop"
 url: /rock-springs/truck-reapair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

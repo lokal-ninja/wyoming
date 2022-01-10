@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Automotive"
 url: /saratoga/hilltop-automotive/
-shop: Autoteile
+shop: car parts
 ---

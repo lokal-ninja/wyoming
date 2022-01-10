@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /casper/kohls/
-shop: Warenhaus
+shop: department store
 ---

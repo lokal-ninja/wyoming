@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /gillette/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

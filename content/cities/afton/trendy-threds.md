@@ -1,5 +1,5 @@
 ---
 title: "Trendy Threds"
 url: /afton/trendy-threds/
-shop: Kleidung
+shop: clothes
 ---

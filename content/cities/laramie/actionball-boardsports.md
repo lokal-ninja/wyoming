@@ -1,5 +1,5 @@
 ---
 title: "Actionball Boardsports"
 url: /laramie/actionball-boardsports/
-shop: Sport
+shop: sports
 ---

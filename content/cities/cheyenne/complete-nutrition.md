@@ -1,5 +1,5 @@
 ---
 title: "Complete Nutrition"
 url: /cheyenne/complete-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

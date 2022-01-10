@@ -1,5 +1,5 @@
 ---
 title: "Magpie Designs"
 url: /gillette/magpie-designs/
-shop: Raumausstattung
+shop: interior decoration
 ---

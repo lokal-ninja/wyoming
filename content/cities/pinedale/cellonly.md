@@ -1,5 +1,5 @@
 ---
 title: "CellOnly"
 url: /pinedale/cellonly/
-shop: Handy
+shop: mobile phone
 ---

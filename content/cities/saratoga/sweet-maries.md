@@ -1,5 +1,5 @@
 ---
 title: "Sweet Marie's"
 url: /saratoga/sweet-maries/
-shop: Bäckerei
+shop: bakery
 ---

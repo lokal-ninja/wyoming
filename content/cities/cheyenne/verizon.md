@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /cheyenne/verizon/
-shop: Handy
+shop: mobile phone
 ---

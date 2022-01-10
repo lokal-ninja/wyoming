@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /gillette/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

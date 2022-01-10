@@ -1,5 +1,5 @@
 ---
 title: "Love Couture"
 url: /gillette/love-couture/
-shop: Kleidung
+shop: clothes
 ---
