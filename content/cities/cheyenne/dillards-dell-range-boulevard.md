@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
-url: /cheyenne/dillards-2/
+url: /cheyenne/dillards/
 shop: department store
 ---

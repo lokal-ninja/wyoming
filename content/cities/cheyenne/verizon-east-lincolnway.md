@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /gillette/verizon-2/
+url: /cheyenne/verizon/
 shop: mobile phone
 ---

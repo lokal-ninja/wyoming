@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /casper/walmart-supercenter-2/
+url: /casper/walmart-supercenter/
 shop: supermarket
 ---

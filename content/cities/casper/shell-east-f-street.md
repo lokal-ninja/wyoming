@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /casper/shell-2/
+url: /casper/shell/
 shop: convenience
 ---
