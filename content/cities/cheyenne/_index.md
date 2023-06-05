@@ -1,6 +1,6 @@
 ---
 title: Cheyenne
 url: /cheyenne/
-latitude: 41.161
-longitude: -104.802
+latitude: 41.165
+longitude: -104.8
 ---
