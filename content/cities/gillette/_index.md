@@ -1,6 +1,6 @@
 ---
 title: Gillette
 url: /gillette/
-latitude: 44.28
-longitude: -105.508
+latitude: 44.281
+longitude: -105.493
 ---
