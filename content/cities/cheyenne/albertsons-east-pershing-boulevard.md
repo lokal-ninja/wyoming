@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /cheyenne/albertsons/
+url: /cheyenne/albertsons-east-pershing-boulevard/
 shop: supermarket
 ---

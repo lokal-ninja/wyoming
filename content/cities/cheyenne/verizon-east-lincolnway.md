@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /cheyenne/verizon/
+url: /cheyenne/verizon-east-lincolnway/
 shop: mobile phone
 ---

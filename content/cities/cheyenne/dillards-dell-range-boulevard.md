@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
-url: /cheyenne/dillards/
+url: /cheyenne/dillards-dell-range-boulevard/
 shop: department store
 ---

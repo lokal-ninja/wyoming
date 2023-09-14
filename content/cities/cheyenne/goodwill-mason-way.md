@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /cheyenne/goodwill/
+url: /cheyenne/goodwill-mason-way/
 shop: charity
 ---
