@@ -1,6 +1,6 @@
 ---
 title: Saratoga
 url: /saratoga/
-latitude: 41.455
-longitude: -106.808
+latitude: 41.453
+longitude: -106.807
 ---
