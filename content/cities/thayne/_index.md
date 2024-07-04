@@ -1,6 +1,6 @@
 ---
 title: Thayne
 url: /thayne/
-latitude: 42.921
+latitude: 42.92
 longitude: -111.002
 ---

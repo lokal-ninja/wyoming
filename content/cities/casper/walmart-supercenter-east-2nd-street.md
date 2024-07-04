@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /casper/walmart-supercenter-cy-avenue/
+url: /casper/walmart-supercenter-east-2nd-street/
 shop: supermarket
 ---
