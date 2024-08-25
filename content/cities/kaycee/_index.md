@@ -1,6 +1,6 @@
 ---
 title: Kaycee
 url: /kaycee/
-latitude: 43.714
-longitude: -106.641
+latitude: 43.717
+longitude: -106.645
 ---
