@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /cheyenne/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

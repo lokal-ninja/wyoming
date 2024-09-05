@@ -1,5 +1,5 @@
 ---
 title: "Farson Feed Store"
 url: /farson/farson-feed-store/
-shop: convenience
+shop: Lebensmittel
 ---

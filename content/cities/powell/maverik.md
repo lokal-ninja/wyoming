@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /powell/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

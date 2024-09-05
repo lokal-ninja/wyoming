@@ -1,5 +1,5 @@
 ---
 title: "Overland Express Mart"
 url: /basin/overland-express-mart/
-shop: supermarket
+shop: Supermarkt
 ---

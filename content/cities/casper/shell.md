@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /casper/shell/
-shop: convenience
+shop: Lebensmittel
 ---

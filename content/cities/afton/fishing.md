@@ -1,5 +1,5 @@
 ---
 title: "Fishing"
 url: /afton/fishing/
-shop: seafood
+shop: Fisch
 ---

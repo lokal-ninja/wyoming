@@ -1,5 +1,5 @@
 ---
 title: "Simpsons Printing"
 url: /gillette/simpsons-printing/
-shop: copyshop
+shop: Kopieren
 ---

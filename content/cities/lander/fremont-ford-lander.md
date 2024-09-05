@@ -1,5 +1,5 @@
 ---
 title: "Fremont Ford Lander"
 url: /lander/fremont-ford-lander/
-shop: car
+shop: Autohaus
 ---

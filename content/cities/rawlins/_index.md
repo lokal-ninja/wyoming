@@ -1,6 +1,6 @@
 ---
 title: Rawlins
 url: /rawlins/
-latitude: 41.789
-longitude: -107.207
+latitude: 41.79
+longitude: -107.229
 ---

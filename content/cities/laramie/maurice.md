@@ -1,5 +1,5 @@
 ---
 title: "Maurice"
 url: /laramie/maurice/
-shop: clothes
+shop: Kleidung
 ---

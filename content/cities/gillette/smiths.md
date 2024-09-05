@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /gillette/smiths/
-shop: supermarket
+shop: Supermarkt
 ---

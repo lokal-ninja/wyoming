@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /jackson/smiths/
-shop: supermarket
+shop: Supermarkt
 ---

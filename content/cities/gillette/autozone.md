@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gillette/autozone/
-shop: car parts
+shop: Autoteile
 ---

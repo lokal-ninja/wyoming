@@ -1,5 +1,5 @@
 ---
 title: "Rocky Mountain Discount Sports"
 url: /gillette/rocky-mountain-discount-sports/
-shop: sports
+shop: Sport
 ---

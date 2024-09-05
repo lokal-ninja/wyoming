@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /casper/best-buy/
-shop: electronics
+shop: Elektronik
 ---

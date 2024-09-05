@@ -1,5 +1,5 @@
 ---
 title: "College Drive Self Storage"
 url: /cheyenne/college-drive-self-storage/
-shop: storage rental
+shop: Mieten
 ---

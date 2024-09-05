@@ -1,5 +1,5 @@
 ---
 title: "Drube Supply"
 url: /wheatland/drube-supply/
-shop: hardware
+shop: Eisenwaren
 ---

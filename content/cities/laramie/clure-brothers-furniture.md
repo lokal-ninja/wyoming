@@ -1,5 +1,5 @@
 ---
 title: "Clure Brothers Furniture"
 url: /laramie/clure-brothers-furniture/
-shop: furniture
+shop: Möbel
 ---

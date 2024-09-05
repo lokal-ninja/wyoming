@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /laramie/toyota/
-shop: car
+shop: Autohaus
 ---

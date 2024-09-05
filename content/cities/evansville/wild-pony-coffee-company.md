@@ -1,5 +1,5 @@
 ---
 title: "Wild Pony Coffee Company"
 url: /evansville/wild-pony-coffee-company/
-shop: coffee
+shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /casper/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

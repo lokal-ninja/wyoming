@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /kaycee/sinclair/
-shop: convenience
+shop: Lebensmittel
 ---
