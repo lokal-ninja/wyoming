@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /gillette/spectrum/
-shop: Handy
+shop: mobile phone
 ---

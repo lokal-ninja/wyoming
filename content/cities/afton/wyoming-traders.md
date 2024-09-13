@@ -1,5 +1,5 @@
 ---
 title: "Wyoming Traders"
 url: /afton/wyoming-traders/
-shop: Kleidung
+shop: clothes
 ---

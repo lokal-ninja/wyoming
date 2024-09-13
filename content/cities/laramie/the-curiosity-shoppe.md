@@ -1,5 +1,5 @@
 ---
 title: "The Curiosity Shoppe"
 url: /laramie/the-curiosity-shoppe/
-shop: Andenken
+shop: gift
 ---

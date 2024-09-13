@@ -1,5 +1,5 @@
 ---
 title: "Grease Barrel"
 url: /gillette/grease-barrel/
-shop: Autowerkstatt
+shop: car repair
 ---

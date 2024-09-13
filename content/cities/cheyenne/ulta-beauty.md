@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /cheyenne/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

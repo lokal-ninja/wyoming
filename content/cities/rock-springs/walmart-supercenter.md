@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /rock-springs/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sapp Bros"
 url: /cheyenne/sapp-bros/
-shop: Lebensmittel
+shop: convenience
 ---

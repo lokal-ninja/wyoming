@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /thayne/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

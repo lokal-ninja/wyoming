@@ -1,5 +1,5 @@
 ---
 title: "Union Wireless"
 url: /casper/union-wireless/
-shop: Handy
+shop: mobile phone
 ---

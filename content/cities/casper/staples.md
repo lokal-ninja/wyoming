@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /casper/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

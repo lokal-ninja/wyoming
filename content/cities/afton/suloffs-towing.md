@@ -1,5 +1,5 @@
 ---
 title: "Suloff's Towing"
 url: /afton/suloffs-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Absolute Auto"
 url: /gillette/absolute-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

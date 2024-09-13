@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cheyenne/target/
-shop: Warenhaus
+shop: department store
 ---

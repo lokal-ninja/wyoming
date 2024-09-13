@@ -1,5 +1,5 @@
 ---
 title: "Body Builders"
 url: /lusk/body-builders/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /casper/autozone/
-shop: Autoteile
+shop: car parts
 ---

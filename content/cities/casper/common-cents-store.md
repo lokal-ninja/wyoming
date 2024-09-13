@@ -1,5 +1,5 @@
 ---
 title: "Common Cents Store"
 url: /casper/common-cents-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Casita"
 url: /gillette/la-casita/
-shop: Lebensmittel
+shop: convenience
 ---

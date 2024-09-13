@@ -1,5 +1,5 @@
 ---
 title: "Batteries Plus Bulbs"
 url: /cheyenne/batteries-plus-bulbs/
-shop: Elektronik
+shop: electronics
 ---

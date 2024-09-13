@@ -1,5 +1,5 @@
 ---
 title: "Twin Peaks Outfitters"
 url: /grover/twin-peaks-outfitters/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest Pampered Pets"
 url: /gillette/hillcrest-pampered-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /casper/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

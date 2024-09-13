@@ -1,5 +1,5 @@
 ---
 title: "Basecamp"
 url: /wilson/basecamp/
-shop: Lebensmittel
+shop: convenience
 ---

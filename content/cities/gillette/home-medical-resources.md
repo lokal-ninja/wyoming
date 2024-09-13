@@ -1,5 +1,5 @@
 ---
 title: "Home Medical Resources"
 url: /gillette/home-medical-resources/
-shop: Sanitätshaus
+shop: medical supply
 ---

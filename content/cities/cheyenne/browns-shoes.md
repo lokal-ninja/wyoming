@@ -1,5 +1,5 @@
 ---
 title: "Brown's Shoes"
 url: /cheyenne/browns-shoes/
-shop: Schuhe
+shop: shoes
 ---

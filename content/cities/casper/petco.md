@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /casper/petco/
-shop: Tiere
+shop: pet
 ---

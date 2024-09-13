@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /rawlins/bomgaars/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheyenne Automotive"
 url: /cheyenne/cheyenne-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

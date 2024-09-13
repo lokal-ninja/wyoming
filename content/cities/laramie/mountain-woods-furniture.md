@@ -1,5 +1,5 @@
 ---
 title: "Mountain Woods Furniture"
 url: /laramie/mountain-woods-furniture/
-shop: Möbel
+shop: furniture
 ---

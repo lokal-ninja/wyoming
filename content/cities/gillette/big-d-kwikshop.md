@@ -1,5 +1,5 @@
 ---
 title: "Big D KwikShop"
 url: /gillette/big-d-kwikshop/
-shop: Lebensmittel
+shop: convenience
 ---

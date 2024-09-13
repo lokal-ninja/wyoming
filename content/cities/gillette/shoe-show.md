@@ -1,5 +1,5 @@
 ---
 title: "Shoe Show"
 url: /gillette/shoe-show/
-shop: Schuhe
+shop: shoes
 ---

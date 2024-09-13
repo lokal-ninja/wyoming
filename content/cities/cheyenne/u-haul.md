@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /cheyenne/u-haul/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shekinah Clinical Spa"
 url: /gillette/shekinah-clinical-spa/
-shop: Kosmetik
+shop: beauty
 ---

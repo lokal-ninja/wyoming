@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /saratoga/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

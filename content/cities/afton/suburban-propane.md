@@ -1,5 +1,5 @@
 ---
 title: "Suburban Propane"
 url: /afton/suburban-propane/
-shop: Gasflaschen
+shop: gas
 ---

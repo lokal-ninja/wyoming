@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /powell/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

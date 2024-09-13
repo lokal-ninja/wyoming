@@ -1,5 +1,5 @@
 ---
 title: "Freedom Fireworks Barn"
 url: /thayne/freedom-fireworks-barn/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

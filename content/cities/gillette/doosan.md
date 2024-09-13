@@ -1,5 +1,5 @@
 ---
 title: "Doosan"
 url: /gillette/doosan/
-shop: Mieten
+shop: storage rental
 ---

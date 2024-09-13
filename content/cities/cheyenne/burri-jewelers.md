@@ -1,5 +1,5 @@
 ---
 title: "Burri Jewelers"
 url: /cheyenne/burri-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

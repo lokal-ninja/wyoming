@@ -1,5 +1,5 @@
 ---
 title: "Forget Me Not"
 url: /gillette/forget-me-not/
-shop: Blumen
+shop: florist
 ---

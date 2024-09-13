@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /cheyenne/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

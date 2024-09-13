@@ -1,5 +1,5 @@
 ---
 title: "Fireworks Outler"
 url: /cheyenne/fireworks-outler/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

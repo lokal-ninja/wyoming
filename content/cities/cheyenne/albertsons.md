@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /cheyenne/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

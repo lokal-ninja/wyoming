@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /cheyenne/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

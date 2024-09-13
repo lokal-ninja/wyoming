@@ -1,5 +1,5 @@
 ---
 title: "Security Storage"
 url: /cheyenne/security-storage/
-shop: Mieten
+shop: storage rental
 ---

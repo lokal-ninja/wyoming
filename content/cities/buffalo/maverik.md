@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /buffalo/maverik/
-shop: Lebensmittel
+shop: convenience
 ---
