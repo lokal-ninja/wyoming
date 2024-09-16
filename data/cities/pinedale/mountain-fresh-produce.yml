@@ -1,11 +1,12 @@
 id: 697327698
-type: way
+type: node
 latitude: 42.865
 longitude: -109.85392
 postcode: "82941"
 city: Pinedale
-street: "South Pine Street"
-housenumber: 461
-phone: "+1 307 749 2740"
-opening_hours: "Su off; Mo 09:00-17:00; Tu 09:00-18:00; We 09:00-17:00; Th-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.mountain-fresh-produce.com"
+street: South Pine Street
+housenumber: "461"
+phone: +1 307 749 2740
+opening_hours: Su off; Mo 09:00-17:00; Tu 09:00-18:00; We 09:00-17:00; Th-Fr 09:00-18:00;
+    Sa 10:00-14:00
+website: https://www.mountain-fresh-produce.com

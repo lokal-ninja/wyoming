@@ -1,11 +1,11 @@
 id: 229597965
-type: way
+type: node
 latitude: 41.16007
 longitude: -104.52032
 postcode: "82053"
 city: Burns
-street: "I-80 Service Road"
-housenumber: 4000
+street: I-80 Service Road
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

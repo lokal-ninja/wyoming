@@ -1,11 +1,11 @@
 id: 526838849
-type: way
+type: node
 latitude: 42.86647
 longitude: -109.85573
 postcode: "82941"
 city: Pinedale
-street: "South Pine Street"
-housenumber: 365
+street: South Pine Street
+housenumber: "365"
 phone: ""
 opening_hours: ""
 website: ""

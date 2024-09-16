@@ -1,11 +1,11 @@
 id: 232387177
-type: way
+type: node
 latitude: 41.11264
 longitude: -104.80256
 postcode: "82007"
 city: Cheyenne
-street: "South Greeley Highway"
-housenumber: 516
-phone: "+1 307 632 8735"
+street: South Greeley Highway
+housenumber: "516"
+phone: +1 307 632 8735
 opening_hours: ""
-website: "https://www.tctownandcountryliquors.com"
+website: https://www.tctownandcountryliquors.com

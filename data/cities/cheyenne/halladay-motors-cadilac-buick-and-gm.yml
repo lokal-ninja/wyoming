@@ -1,11 +1,11 @@
 id: 238535385
-type: way
+type: node
 latitude: 41.13016
 longitude: -104.84094
 postcode: "82001"
 city: Cheyenne
-street: "Westland Road"
-housenumber: 2100
-phone: "+1-307-634-1511"
+street: Westland Road
+housenumber: "2100"
+phone: +1-307-634-1511
 opening_hours: ""
-website: "https://www.halladaymotors.com/"
+website: https://www.halladaymotors.com/

@@ -1,11 +1,11 @@
 id: 372538301
-type: way
+type: node
 latitude: 42.86716
 longitude: -109.87026
 postcode: "82941"
 city: Pinedale
-street: "West Pine Street"
-housenumber: 709
-phone: "+1 307 231 6363"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.wildflowertradingcompany.com"
+street: West Pine Street
+housenumber: "709"
+phone: +1 307 231 6363
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.wildflowertradingcompany.com

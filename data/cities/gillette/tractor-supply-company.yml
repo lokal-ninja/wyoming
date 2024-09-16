@@ -1,11 +1,11 @@
 id: 501095718
-type: way
+type: node
 latitude: 44.25789
 longitude: -105.48888
 postcode: "82718"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 4005
-phone: "+1 307-682-1165"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Gillette-WY-82718_1896"
+street: South Douglas Highway
+housenumber: "4005"
+phone: +1 307-682-1165
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Gillette-WY-82718_1896

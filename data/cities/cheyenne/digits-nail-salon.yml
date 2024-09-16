@@ -1,11 +1,11 @@
 id: 899666768
-type: way
+type: node
 latitude: 41.1584
 longitude: -104.80178
 postcode: "82009"
 city: Cheyenne
-street: "Stillwater Avenue"
-housenumber: 1637
+street: Stillwater Avenue
+housenumber: "1637"
 phone: ""
 opening_hours: ""
 website: ""

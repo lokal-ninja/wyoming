@@ -1,11 +1,11 @@
 id: 238530451
-type: way
+type: node
 latitude: 41.31006
 longitude: -105.59519
 postcode: ""
 city: Laramie
-street: "South 2nd Street"
-housenumber: 400
+street: South 2nd Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.undercoverbedandspas.com/"
+website: https://www.undercoverbedandspas.com/

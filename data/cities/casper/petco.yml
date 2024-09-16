@@ -4,8 +4,9 @@ latitude: 42.85019
 longitude: -106.27354
 postcode: "82609"
 city: Casper
-street: "East 2nd Street"
-housenumber: 4140
-phone: "+1 307-265-0155"
-opening_hours: "Mo 09:00-20:00; Tu 09:00-19:00; We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wy/casper/pet-supplies-casper-wy-1456.html"
+street: East 2nd Street
+housenumber: "4140"
+phone: +1 307-265-0155
+opening_hours: Mo 09:00-20:00; Tu 09:00-19:00; We 09:00-20:00; Th 09:00-19:00; Fr-Sa
+    09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/wy/casper/pet-supplies-casper-wy-1456.html

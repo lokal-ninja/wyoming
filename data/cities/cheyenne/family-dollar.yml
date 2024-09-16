@@ -1,11 +1,11 @@
 id: 1075828079
-type: way
+type: node
 latitude: 41.12343
 longitude: -104.80897
 postcode: "82007"
 city: Cheyenne
-street: "Central Avenue"
-housenumber: 508
+street: Central Avenue
+housenumber: "508"
 phone: ""
 opening_hours: ""
 website: ""

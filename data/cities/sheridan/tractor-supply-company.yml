@@ -1,11 +1,11 @@
 id: 636902192
-type: way
+type: node
 latitude: 44.77309
 longitude: -106.93933
 postcode: "82801"
 city: Sheridan
-street: "East Brundage Lane"
-housenumber: 1140
-phone: "+1 307-672-1709"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Brundage Lane
+housenumber: "1140"
+phone: +1 307-672-1709
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

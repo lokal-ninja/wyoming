@@ -1,11 +1,11 @@
 id: 556907021
-type: way
+type: node
 latitude: 43.4977
 longitude: -110.876
 postcode: "83014"
 city: Wilson
-street: "West Highway 22"
-housenumber: 5720
-phone: "+1-307-733-3314"
-opening_hours: "Mo-Fr 06:30-21:00; Sa-Su 07:00-20:00"
-website: "https://basecamp-wilson.myshopify.com/"
+street: West Highway 22
+housenumber: "5720"
+phone: +1-307-733-3314
+opening_hours: Mo-Fr 06:30-21:00; Sa-Su 07:00-20:00
+website: https://basecamp-wilson.myshopify.com/

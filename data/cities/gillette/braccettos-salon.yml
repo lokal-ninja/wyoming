@@ -1,11 +1,11 @@
 id: 491041789
-type: way
+type: node
 latitude: 44.29348
 longitude: -105.5036
 postcode: "82716"
 city: Gillette
-street: "East 2nd Street"
-housenumber: 101
+street: East 2nd Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

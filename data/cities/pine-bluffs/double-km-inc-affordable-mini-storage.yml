@@ -1,11 +1,11 @@
 id: 537676914
-type: way
+type: node
 latitude: 41.18207
 longitude: -104.05543
 postcode: "82082"
 city: Pine Bluffs
-street: "Industrial Way"
-housenumber: 201
+street: Industrial Way
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1075451875
-type: way
+type: node
 latitude: 42.91724
 longitude: -106.33915
 postcode: "82601"
 city: Bar Nunn
-street: "West Coyote Avenue"
-housenumber: 1100
+street: West Coyote Avenue
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

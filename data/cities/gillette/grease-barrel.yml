@@ -1,11 +1,11 @@
 id: 490977193
-type: way
+type: node
 latitude: 44.26941
 longitude: -105.5068
 postcode: "82718"
 city: Gillette
-street: "West Lakeway Road"
-housenumber: 300
-phone: "+1-307-685-4806"
+street: West Lakeway Road
+housenumber: "300"
+phone: +1-307-685-4806
 opening_hours: ""
 website: ""

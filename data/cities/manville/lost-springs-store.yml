@@ -1,11 +1,11 @@
 id: 819295382
-type: way
+type: node
 latitude: 42.76503
 longitude: -104.92626
 postcode: "82227"
 city: Manville
-street: "Main Sreet"
-housenumber: 101
+street: Main Sreet
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

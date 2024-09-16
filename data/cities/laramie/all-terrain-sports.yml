@@ -1,11 +1,11 @@
 id: 423973430
-type: way
+type: node
 latitude: 41.31079
 longitude: -105.59161
 postcode: "82070"
 city: Laramie
-street: "East Grand Avenue"
-housenumber: 412
+street: East Grand Avenue
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

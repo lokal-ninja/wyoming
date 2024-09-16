@@ -1,11 +1,11 @@
 id: 403665075
-type: way
+type: node
 latitude: 41.32189
 longitude: -105.5921
 postcode: "82070"
 city: Laramie
-street: "North 3rd Street"
-housenumber: 1059
+street: North 3rd Street
+housenumber: "1059"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wy/laramie/autoparts-3181.html"
+website: https://locations.oreillyauto.com/wy/laramie/autoparts-3181.html

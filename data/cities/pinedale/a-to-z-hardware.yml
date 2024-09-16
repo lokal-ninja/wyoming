@@ -1,11 +1,11 @@
 id: 364662601
-type: way
+type: node
 latitude: 42.86724
 longitude: -109.87101
 postcode: "82941"
 city: Pinedale
-street: "West Pine Street"
-housenumber: 777
-phone: "+1 307 367 2116"
+street: West Pine Street
+housenumber: "777"
+phone: +1 307 367 2116
 opening_hours: ""
 website: ""

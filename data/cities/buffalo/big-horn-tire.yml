@@ -1,11 +1,11 @@
 id: 854344232
-type: way
+type: node
 latitude: 44.35753
 longitude: -106.66106
 postcode: "82834"
 city: Buffalo
-street: "US Highway 16 East"
-housenumber: 196
-phone: "+1-307-684-8200"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://bighorntire.com"
+street: US Highway 16 East
+housenumber: "196"
+phone: +1-307-684-8200
+opening_hours: Mo-Sa 08:00-18:00
+website: https://bighorntire.com

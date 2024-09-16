@@ -1,11 +1,11 @@
 id: 316904062
-type: way
+type: node
 latitude: 41.32296
 longitude: -105.59212
 postcode: "82070"
 city: Laramie
-street: "North 3rd Street"
-housenumber: 1161
-phone: "+1 307-721-8152"
+street: North 3rd Street
+housenumber: "1161"
+phone: +1 307-721-8152
 opening_hours: ""
-website: "https://www.truevalue.com/laramie"
+website: https://www.truevalue.com/laramie

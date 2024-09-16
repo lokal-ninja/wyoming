@@ -1,11 +1,11 @@
 id: 258780928
-type: way
+type: node
 latitude: 44.30074
 longitude: -105.52641
 postcode: "82716"
 city: Gillette
-street: "Commercial Drive"
-housenumber: 717
+street: Commercial Drive
+housenumber: "717"
 phone: ""
 opening_hours: ""
-website: "https://trutechproducts.net/"
+website: https://trutechproducts.net/

@@ -1,11 +1,11 @@
 id: 86296760
-type: way
+type: node
 latitude: 41.12469
 longitude: -104.8471
 postcode: "82001"
 city: Cheyenne
-street: "Fleischili Parkway"
-housenumber: 1740
-phone: "+1 307-632-2891"
-opening_hours: "07:00-21:00"
-website: "https://www.homedepot.com/l/cheyenne/wy/cheyenne/82001/6002"
+street: Fleischili Parkway
+housenumber: "1740"
+phone: +1 307-632-2891
+opening_hours: 07:00-21:00
+website: https://www.homedepot.com/l/cheyenne/wy/cheyenne/82001/6002

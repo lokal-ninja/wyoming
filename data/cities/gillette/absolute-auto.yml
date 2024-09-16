@@ -1,11 +1,11 @@
 id: 265498041
-type: way
+type: node
 latitude: 44.29509
 longitude: -105.50937
 postcode: "82716"
 city: Gillette
-street: "West 1st Street"
-housenumber: 402
-phone: "+1-307-670-0919"
+street: West 1st Street
+housenumber: "402"
+phone: +1-307-670-0919
 opening_hours: ""
-website: "http://absoluteautollc.com/"
+website: http://absoluteautollc.com/

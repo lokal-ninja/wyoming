@@ -1,11 +1,11 @@
 id: 893890466
-type: way
+type: node
 latitude: 42.74646
 longitude: -110.93379
 postcode: "83110"
 city: Afton
-street: "North Washington Street"
-housenumber: 710
-phone: "+1 307 887 3663"
+street: North Washington Street
+housenumber: "710"
+phone: +1 307 887 3663
 opening_hours: ""
-website: "https://www.aftonfoodpantry.com/"
+website: https://www.aftonfoodpantry.com/

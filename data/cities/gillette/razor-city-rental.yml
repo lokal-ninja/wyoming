@@ -1,11 +1,11 @@
 id: 621550776
-type: way
+type: node
 latitude: 44.29192
 longitude: -105.49458
 postcode: "82716"
 city: Gillette
-street: "South Miller Avenue"
-housenumber: 305
-phone: "+1-307-687-1010"
+street: South Miller Avenue
+housenumber: "305"
+phone: +1-307-687-1010
 opening_hours: ""
-website: "https://www.razorcityrental.com/"
+website: https://www.razorcityrental.com/

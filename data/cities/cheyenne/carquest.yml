@@ -1,11 +1,11 @@
 id: 317311259
-type: way
+type: node
 latitude: 41.12404
 longitude: -104.80859
 postcode: "82007"
 city: Cheyenne
-street: "West 6th Street"
-housenumber: 103
+street: West 6th Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

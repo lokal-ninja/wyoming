@@ -1,11 +1,11 @@
 id: 235554370
-type: way
+type: node
 latitude: 43.47981
 longitude: -110.76827
 postcode: "83001"
 city: Jackson
-street: "West Broadway"
-housenumber: 
+street: West Broadway
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

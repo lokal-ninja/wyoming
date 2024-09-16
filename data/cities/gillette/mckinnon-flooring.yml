@@ -1,11 +1,11 @@
 id: 491802714
-type: way
+type: node
 latitude: 44.26881
 longitude: -105.496
 postcode: "82718"
 city: Gillette
-street: "East Lakeway Road"
-housenumber: 600
+street: East Lakeway Road
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.mckinnonflooring.com/"
+website: https://www.mckinnonflooring.com/

@@ -1,11 +1,11 @@
 id: 162863907
-type: way
+type: node
 latitude: 41.50475
 longitude: -109.45851
 postcode: "82935"
 city: Green River
-street: "Bridger Drive"
-housenumber: 905
-phone: "+1 307-875-7841"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/wy/green-river/905-bridger-dr-green-river-wy/706/00187"
+street: Bridger Drive
+housenumber: "905"
+phone: +1 307-875-7841
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/wy/green-river/905-bridger-dr-green-river-wy/706/00187

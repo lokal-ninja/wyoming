@@ -1,11 +1,11 @@
 id: 491802713
-type: way
+type: node
 latitude: 44.26879
 longitude: -105.49628
 postcode: "82718"
 city: Gillette
-street: "East Lakeway Road"
-housenumber: 504
+street: East Lakeway Road
+housenumber: "504"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/bikeshopwyo/"
+website: https://www.facebook.com/bikeshopwyo/

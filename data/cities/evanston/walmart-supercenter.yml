@@ -1,11 +1,11 @@
 id: 1014895650
-type: way
+type: node
 latitude: 41.26651
 longitude: -110.95331
 postcode: "82930"
 city: Evanston
-street: "North 2nd Street"
-housenumber: 125
-phone: "+1 307-789-0010"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1456/evanston-wy/whats-new"
+street: North 2nd Street
+housenumber: "125"
+phone: +1 307-789-0010
+opening_hours: 24/7
+website: https://www.walmart.com/store/1456/evanston-wy/whats-new

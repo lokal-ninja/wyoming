@@ -1,11 +1,11 @@
 id: 1173183560
-type: way
+type: node
 latitude: 41.26394
 longitude: -110.9813
 postcode: "82930"
 city: Evanston
-street: "Harrison Drive"
-housenumber: 1949
+street: Harrison Drive
+housenumber: "1949"
 phone: ""
 opening_hours: ""
 website: ""

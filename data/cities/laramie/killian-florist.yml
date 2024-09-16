@@ -1,11 +1,11 @@
 id: 238636766
-type: way
+type: node
 latitude: 41.31056
 longitude: -105.59429
-postcode: "82070-3624"
+postcode: 82070-3624
 city: Laramie
-street: "South 3rd Street"
-housenumber: 312
-phone: "+1 (307) 745-5555"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.killianflorist.com/"
+street: South 3rd Street
+housenumber: "312"
+phone: +1 (307) 745-5555
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.killianflorist.com/

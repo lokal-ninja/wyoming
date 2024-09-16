@@ -1,11 +1,11 @@
 id: 231062990
-type: way
+type: node
 latitude: 41.1671
 longitude: -104.80428
 postcode: "82009"
 city: Cheyenne
-street: "Prairie Avenue"
-housenumber: 1608
-phone: "+1 307-632-3616"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/WY-Cheyenne/1539"
+street: Prairie Avenue
+housenumber: "1608"
+phone: +1 307-632-3616
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/WY-Cheyenne/1539

@@ -1,11 +1,11 @@
 id: 549377040
-type: way
+type: node
 latitude: 41.1842
 longitude: -104.8365
 postcode: "82009"
 city: Cheyenne
-street: "Vandehei Street"
-housenumber: 534
+street: Vandehei Street
+housenumber: "534"
 phone: ""
 opening_hours: ""
 website: ""

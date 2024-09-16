@@ -1,11 +1,11 @@
 id: 236930753
-type: way
+type: node
 latitude: 41.15905
 longitude: -104.81102
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 1225
-phone: "+1 307-772-0900"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/wy/cheyenne/office-depot-460"
+street: Dell Range Boulevard
+housenumber: "1225"
+phone: +1 307-772-0900
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/wy/cheyenne/office-depot-460

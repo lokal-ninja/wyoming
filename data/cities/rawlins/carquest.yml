@@ -1,11 +1,11 @@
 id: 746438518
-type: way
+type: node
 latitude: 41.78913
 longitude: -107.2313
 postcode: "82301"
 city: Rawlins
-street: "East Cedar Street"
-housenumber: 406
+street: East Cedar Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

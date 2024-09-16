@@ -1,11 +1,11 @@
 id: 238531847
-type: way
+type: node
 latitude: 41.31104
 longitude: -105.59561
 postcode: ""
 city: Laramie
-street: "East Grand Avenue"
-housenumber: 110
-phone: "+1 307-745-7737"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coalcreekcoffee.com/"
+street: East Grand Avenue
+housenumber: "110"
+phone: +1 307-745-7737
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coalcreekcoffee.com/

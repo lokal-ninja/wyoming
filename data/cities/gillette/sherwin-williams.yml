@@ -1,11 +1,11 @@
 id: 260860549
-type: way
+type: node
 latitude: 44.275
 longitude: -105.49172
 postcode: "82718"
 city: Gillette
-street: "Country Club Road"
-housenumber: 818
-phone: "+1-307-685-3024"
+street: Country Club Road
+housenumber: "818"
+phone: +1-307-685-3024
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/gillette/wy/3205"
+website: https://www.sherwin-williams.com/store-locator/paint-store/gillette/wy/3205

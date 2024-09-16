@@ -1,11 +1,11 @@
 id: 396816917
-type: way
+type: node
 latitude: 42.86472
 longitude: -109.86904
 postcode: "82941"
 city: Pinedale
-street: "South Lincoln Avenue"
-housenumber: 146
-phone: "+1 307 367 4561"
-opening_hours: "Su off; Mo-Th 08:00-17:30; Fr 08:00-17:00; Sa 08:00-15:00"
-website: "https://www.buckysoutdoors.com/"
+street: South Lincoln Avenue
+housenumber: "146"
+phone: +1 307 367 4561
+opening_hours: Su off; Mo-Th 08:00-17:30; Fr 08:00-17:00; Sa 08:00-15:00
+website: https://www.buckysoutdoors.com/

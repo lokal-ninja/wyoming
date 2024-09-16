@@ -1,11 +1,11 @@
 id: 893365484
-type: way
+type: node
 latitude: 44.79849
 longitude: -106.95269
 postcode: "82801"
 city: Sheridan
-street: "East Brundage Street"
-housenumber: 229
+street: East Brundage Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

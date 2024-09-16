@@ -1,11 +1,11 @@
 id: 705841378
-type: way
+type: node
 latitude: 41.15353
 longitude: -104.73553
 postcode: "82001"
 city: Cheyenne
-street: "Countryside Avenue"
-housenumber: 6100
+street: Countryside Avenue
+housenumber: "6100"
 phone: ""
 opening_hours: ""
 website: ""

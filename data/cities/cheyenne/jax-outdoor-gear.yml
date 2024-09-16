@@ -1,11 +1,11 @@
 id: 236515264
-type: way
+type: node
 latitude: 41.16234
 longitude: -104.80791
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 1400
-phone: "+1-307-635-9051"
+street: Dell Range Boulevard
+housenumber: "1400"
+phone: +1-307-635-9051
 opening_hours: ""
-website: "https://stores.jaxgoods.com/"
+website: https://stores.jaxgoods.com/

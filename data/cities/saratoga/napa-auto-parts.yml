@@ -1,11 +1,11 @@
 id: 445266209
-type: way
+type: node
 latitude: 41.45448
 longitude: -106.80908
 postcode: "82331"
 city: Saratoga
-street: "West Bridge Avenue"
-housenumber: 119
-phone: "+1 307 326-5330"
-opening_hours: "Sa 08:00-16:00; Su off; Mo-Fr 07:30-17:30"
+street: West Bridge Avenue
+housenumber: "119"
+phone: +1 307 326-5330
+opening_hours: Sa 08:00-16:00; Su off; Mo-Fr 07:30-17:30
 website: ""

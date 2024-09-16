@@ -1,11 +1,11 @@
 id: 1089781033
-type: way
+type: node
 latitude: 44.51635
 longitude: -109.08809
 postcode: "82414"
 city: Cody
-street: "Yellowstone Avenue"
-housenumber: 324
-phone: "+1 307-587-5233"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Yellowstone Avenue
+housenumber: "324"
+phone: +1 307-587-5233
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

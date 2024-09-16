@@ -1,11 +1,11 @@
 id: 238528921
-type: way
+type: node
 latitude: 41.30958
 longitude: -105.59494
-postcode: "82070-3613"
+postcode: 82070-3613
 city: Laramie
-street: "South 2nd Street"
-housenumber: 417
-phone: "+1 307 742 2445"
+street: South 2nd Street
+housenumber: "417"
+phone: +1 307 742 2445
 opening_hours: ""
-website: "http://www.elitemedical.us"
+website: http://www.elitemedical.us

@@ -1,11 +1,11 @@
 id: 494015637
-type: way
+type: node
 latitude: 44.29312
 longitude: -105.50149
 postcode: "82716"
 city: Gillette
-street: "East 2nd Street"
-housenumber: 208
-phone: "+1-307-682-4141"
+street: East 2nd Street
+housenumber: "208"
+phone: +1-307-682-4141
 opening_hours: ""
 website: ""

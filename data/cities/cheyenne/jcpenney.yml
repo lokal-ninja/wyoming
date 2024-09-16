@@ -1,11 +1,11 @@
 id: 236515438
-type: way
+type: node
 latitude: 41.16151
 longitude: -104.80251
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 1400
-phone: "+1-307-634-4451"
-opening_hours: "10:00-21:00"
-website: "http://www.jcpenneys.com"
+street: Dell Range Boulevard
+housenumber: "1400"
+phone: +1-307-634-4451
+opening_hours: 10:00-21:00
+website: http://www.jcpenneys.com

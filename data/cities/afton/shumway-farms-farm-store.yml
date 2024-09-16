@@ -1,11 +1,11 @@
 id: 838479891
-type: way
+type: node
 latitude: 42.66496
 longitude: -110.93379
 postcode: "83110"
 city: Afton
-street: "WY-241"
-housenumber: 2325
+street: WY-241
+housenumber: "2325"
 phone: ""
 opening_hours: ""
 website: ""

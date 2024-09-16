@@ -1,11 +1,11 @@
 id: 541981095
-type: way
+type: node
 latitude: 44.28773
 longitude: -105.4954
 postcode: "82716"
 city: Gillette
-street: "East 8th Street"
-housenumber: 611
+street: East 8th Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
-website: "https://www.pointstire.com/alignpros"
+website: https://www.pointstire.com/alignpros

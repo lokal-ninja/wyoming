@@ -1,11 +1,11 @@
 id: 232400894
-type: way
+type: node
 latitude: 41.16097
 longitude: -104.78912
 postcode: "82009"
 city: Cheyenne
-street: "Grandview Avenue"
-housenumber: 4621
-phone: "+1 307-632-1129"
-opening_hours: "08:00-21:00"
-website: "https://www.harborfreight.com/storelocator/4621-grandview-ave-cheyenne-82009?number=696"
+street: Grandview Avenue
+housenumber: "4621"
+phone: +1 307-632-1129
+opening_hours: 08:00-21:00
+website: https://www.harborfreight.com/storelocator/4621-grandview-ave-cheyenne-82009?number=696

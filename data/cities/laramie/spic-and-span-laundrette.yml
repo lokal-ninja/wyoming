@@ -1,11 +1,11 @@
 id: 316903854
-type: way
+type: node
 latitude: 41.31454
 longitude: -105.59232
 postcode: "82072"
 city: Laramie
-street: "North 4th Street"
-housenumber: 272
+street: North 4th Street
+housenumber: "272"
 phone: ""
 opening_hours: ""
 website: ""

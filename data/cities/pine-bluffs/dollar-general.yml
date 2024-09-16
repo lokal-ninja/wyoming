@@ -1,11 +1,11 @@
 id: 1075810520
-type: way
+type: node
 latitude: 41.17952
 longitude: -104.0764
 postcode: "82082"
 city: Pine Bluffs
-street: "Parson Street"
-housenumber: 604
+street: Parson Street
+housenumber: "604"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wy/pine-bluffs/20856"
+website: https://www.dollargeneral.com/store-directory/wy/pine-bluffs/20856

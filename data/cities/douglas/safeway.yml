@@ -1,11 +1,11 @@
 id: 405982268
-type: way
+type: node
 latitude: 42.74429
 longitude: -105.36157
 postcode: "82633"
 city: Douglas
-street: "East Richards Street"
-housenumber: 1900
-phone: "+1 307-358-3446"
+street: East Richards Street
+housenumber: "1900"
+phone: +1 307-358-3446
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wy/douglas/1900-e-richards-st.html"
+website: https://local.safeway.com/safeway/wy/douglas/1900-e-richards-st.html

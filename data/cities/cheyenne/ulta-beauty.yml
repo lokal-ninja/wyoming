@@ -1,11 +1,11 @@
 id: 1085921034
-type: way
+type: node
 latitude: 41.16201
 longitude: -104.80551
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 1400
-phone: "+1 307-634-5282"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.ulta.com/stores/cheyenne-wy-1159"
+street: Dell Range Boulevard
+housenumber: "1400"
+phone: +1 307-634-5282
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.ulta.com/stores/cheyenne-wy-1159

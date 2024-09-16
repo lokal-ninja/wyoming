@@ -1,11 +1,11 @@
 id: 396627730
-type: way
+type: node
 latitude: 42.8671
 longitude: -109.86429
 postcode: "82941"
 city: Pinedale
-street: "North Franklin Avenue"
-housenumber: 26
+street: North Franklin Avenue
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

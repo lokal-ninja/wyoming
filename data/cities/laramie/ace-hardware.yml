@@ -1,11 +1,11 @@
 id: 697846119
-type: way
+type: node
 latitude: 41.3115
 longitude: -105.58856
 postcode: "82070"
 city: Laramie
-street: "East Grand Avenue"
-housenumber: 611
-phone: "+1 307-755-0781"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-19:00"
+street: East Grand Avenue
+housenumber: "611"
+phone: +1 307-755-0781
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-19:00
 website: ""

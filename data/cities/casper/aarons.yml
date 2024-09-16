@@ -1,11 +1,11 @@
 id: 684820146
-type: way
+type: node
 latitude: 42.81796
 longitude: -106.37052
 postcode: "82604"
 city: Casper
-street: "Plaza Drive"
-housenumber: 4050
+street: Plaza Drive
+housenumber: "4050"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/wy/casper/4050-plaza-dr."
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/wy/casper/4050-plaza-dr.

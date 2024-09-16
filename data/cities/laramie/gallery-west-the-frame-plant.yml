@@ -1,11 +1,11 @@
 id: 238568845
-type: way
+type: node
 latitude: 41.31218
 longitude: -105.59513
 postcode: ""
 city: Laramie
-street: "East Ivinson Avenue"
-housenumber: 121
+street: East Ivinson Avenue
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-16:00; Su 14:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-16:00; Su 14:00-16:00
 website: ""

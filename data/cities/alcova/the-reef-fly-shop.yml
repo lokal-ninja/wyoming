@@ -1,11 +1,11 @@
 id: 986620789
-type: way
+type: node
 latitude: 42.56638
 longitude: -106.71434
 postcode: "82620"
 city: Alcova
-street: "Gray Reef Road"
-housenumber: 22222
+street: Gray Reef Road
+housenumber: "22222"
 phone: ""
 opening_hours: ""
 website: ""

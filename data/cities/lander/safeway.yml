@@ -1,11 +1,11 @@
 id: 129476876
-type: way
+type: node
 latitude: 42.83747
 longitude: -108.74682
 postcode: "82520"
 city: Lander
-street: "Main Street"
-housenumber: 1165
-phone: "+1 307-332-3636"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/wy/lander/1165-w-main-st.html"
+street: Main Street
+housenumber: "1165"
+phone: +1 307-332-3636
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.safeway.com/safeway/wy/lander/1165-w-main-st.html

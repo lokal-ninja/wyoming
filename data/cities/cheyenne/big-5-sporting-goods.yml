@@ -1,11 +1,11 @@
 id: 232402327
-type: way
+type: node
 latitude: 41.16079
 longitude: -104.78796
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 2152
-phone: "+1-307-632-3251"
-opening_hours: "10:00-21:00"
-website: "https://www.big5sportinggoods.com/"
+street: Dell Range Boulevard
+housenumber: "2152"
+phone: +1-307-632-3251
+opening_hours: 10:00-21:00
+website: https://www.big5sportinggoods.com/

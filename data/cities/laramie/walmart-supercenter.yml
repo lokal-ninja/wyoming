@@ -1,11 +1,11 @@
 id: 129803651
-type: way
+type: node
 latitude: 41.30214
 longitude: -105.54025
 postcode: "82070"
 city: Laramie
-street: "East Grand Avenue"
-housenumber: 4308
-phone: "+1 307-745-6100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1412/laramie-wy/whats-new"
+street: East Grand Avenue
+housenumber: "4308"
+phone: +1 307-745-6100
+opening_hours: 24/7
+website: https://www.walmart.com/store/1412/laramie-wy/whats-new

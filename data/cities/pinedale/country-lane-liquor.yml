@@ -1,11 +1,11 @@
 id: 372784592
-type: way
+type: node
 latitude: 42.86627
 longitude: -109.87705
 postcode: "82941"
 city: Pinedale
-street: "US 191"
-housenumber: 1190
-phone: "+1 307 367 4492"
-opening_hours: "Su-Sa 09:00-21:00"
+street: US 191
+housenumber: "1190"
+phone: +1 307 367 4492
+opening_hours: Su-Sa 09:00-21:00
 website: ""

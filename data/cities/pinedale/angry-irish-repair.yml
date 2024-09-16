@@ -1,11 +1,11 @@
 id: 362811461
-type: way
+type: node
 latitude: 42.86701
 longitude: -109.87478
 postcode: "82941"
 city: Pinedale
-street: "West Pine Street"
-housenumber: 1003
-phone: "+1 307 231 5062"
-opening_hours: "Su off; Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://angry-irish-repair.business.site/"
+street: West Pine Street
+housenumber: "1003"
+phone: +1 307 231 5062
+opening_hours: Su off; Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://angry-irish-repair.business.site/

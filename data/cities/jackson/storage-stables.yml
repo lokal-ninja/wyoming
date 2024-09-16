@@ -4,8 +4,8 @@ latitude: 43.4303
 longitude: -110.77916
 postcode: "83001"
 city: Jackson
-street: "US-89"
-housenumber: 3400
-phone: "+1-307-733-6876"
+street: US-89
+housenumber: "3400"
+phone: +1-307-733-6876
 opening_hours: ""
-website: "https://storagestables.com/"
+website: https://storagestables.com/

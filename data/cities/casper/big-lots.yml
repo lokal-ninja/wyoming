@@ -1,11 +1,11 @@
 id: 792574779
-type: way
+type: node
 latitude: 42.8379
 longitude: -106.29924
 postcode: "82601"
 city: Casper
-street: "East 12th Street"
-housenumber: 2141
-phone: "+1 307-472-4060"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/wy/casper/2141-e-12th-st"
+street: East 12th Street
+housenumber: "2141"
+phone: +1 307-472-4060
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/wy/casper/2141-e-12th-st

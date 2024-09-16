@@ -1,11 +1,11 @@
 id: 235714932
-type: way
+type: node
 latitude: 43.47909
 longitude: -110.7706
 postcode: "83001"
 city: Jackson
-street: "West Broadway"
-housenumber: 475
-phone: "+1 307-733-4676"
-opening_hours: "Mo-Sa 08:00-17:00; Su 09:00-17:00"
+street: West Broadway
+housenumber: "475"
+phone: +1 307-733-4676
+opening_hours: Mo-Sa 08:00-17:00; Su 09:00-17:00
 website: ""

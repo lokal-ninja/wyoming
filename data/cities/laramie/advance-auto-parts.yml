@@ -1,11 +1,11 @@
 id: 697846118
-type: way
+type: node
 latitude: 41.31152
 longitude: -105.5889
 postcode: "82070"
 city: Laramie
-street: "East Grand Avenue"
-housenumber: 611
+street: East Grand Avenue
+housenumber: "611"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wy/laramie/611-e-grand-ave"
+website: https://stores.advanceautoparts.com/wy/laramie/611-e-grand-ave

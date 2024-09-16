@@ -1,11 +1,11 @@
 id: 236942935
-type: way
+type: node
 latitude: 41.15949
 longitude: -104.8006
 postcode: "82009"
 city: Cheyenne
-street: "Stillwater Avenue"
-housenumber: 1706
-phone: "+1 307 638 8781"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/cheyenne/wy/703153"
+street: Stillwater Avenue
+housenumber: "1706"
+phone: +1 307 638 8781
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/cheyenne/wy/703153

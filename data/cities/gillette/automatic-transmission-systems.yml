@@ -1,11 +1,11 @@
 id: 530867320
-type: way
+type: node
 latitude: 44.29495
 longitude: -105.5248
 postcode: "82716"
 city: Gillette
-street: "West 1st Street"
-housenumber: 1600
+street: West 1st Street
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.atsdwy.com/"
+website: https://www.atsdwy.com/

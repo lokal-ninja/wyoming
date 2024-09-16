@@ -1,11 +1,11 @@
 id: 232380200
-type: way
+type: node
 latitude: 41.14438
 longitude: -104.76984
 postcode: "82001"
 city: Cheyenne
-street: "East Pershing Boulevard"
-housenumber: 3355
-phone: "+1-307-635-1151"
-opening_hours: "6:00-23:00"
-website: "https://local.albertsons.com/wy/cheyenne/3355-e-pershing-blvd.html"
+street: East Pershing Boulevard
+housenumber: "3355"
+phone: +1-307-635-1151
+opening_hours: 6:00-23:00
+website: https://local.albertsons.com/wy/cheyenne/3355-e-pershing-blvd.html

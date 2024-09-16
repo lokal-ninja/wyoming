@@ -1,11 +1,11 @@
 id: 232365842
-type: way
+type: node
 latitude: 41.17304
 longitude: -104.8303
 postcode: "82009"
 city: Cheyenne
-street: "Yellowstone Road"
-housenumber: 5800
-phone: "+1-307-637-8171"
+street: Yellowstone Road
+housenumber: "5800"
+phone: +1-307-637-8171
 opening_hours: ""
-website: "https://local.albertsons.com/wy/cheyenne/5800-yellowstone-rd.html"
+website: https://local.albertsons.com/wy/cheyenne/5800-yellowstone-rd.html

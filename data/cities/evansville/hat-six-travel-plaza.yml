@@ -1,11 +1,11 @@
 id: 792581271
-type: way
+type: node
 latitude: 42.8472
 longitude: -106.21539
 postcode: "82636"
 city: Evansville
-street: "Nugget"
-housenumber: 6985
-phone: "+1-307-234-0504"
-opening_hours: "24/7"
+street: Nugget
+housenumber: "6985"
+phone: +1-307-234-0504
+opening_hours: 24/7
 website: ""

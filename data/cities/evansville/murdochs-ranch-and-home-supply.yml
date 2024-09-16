@@ -1,11 +1,11 @@
 id: 627302896
-type: way
+type: node
 latitude: 42.85542
 longitude: -106.26671
 postcode: "82636"
 city: Evansville
-street: "Miracle Street"
-housenumber: 370
+street: Miracle Street
+housenumber: "370"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 533954681
-type: way
+type: node
 latitude: 42.05631
 longitude: -104.18497
 postcode: "82240"
 city: Torrington
-street: "Main Street"
-housenumber: 1108
-phone: "+1 307 532 4141"
+street: Main Street
+housenumber: "1108"
+phone: +1 307 532 4141
 opening_hours: ""
-website: "https://olsontireco.mechanicnet.com/"
+website: https://olsontireco.mechanicnet.com/

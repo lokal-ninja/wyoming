@@ -1,11 +1,11 @@
 id: 265112880
-type: way
+type: node
 latitude: 42.84986
 longitude: -106.26827
 postcode: "82609"
 city: Casper
-street: "East 2nd Street"
-housenumber: 4340
+street: East 2nd Street
+housenumber: "4340"
 phone: ""
 opening_hours: ""
 website: ""

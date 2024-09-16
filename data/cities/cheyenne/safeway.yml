@@ -1,11 +1,11 @@
 id: 129477525
-type: way
+type: node
 latitude: 41.1113
 longitude: -104.80297
 postcode: "82007"
 city: Cheyenne
-street: "South Greeley Highway"
-housenumber: 700
-phone: "+1 307-635-7877"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/wy/cheyenne/700-s-greeley-hwy.html"
+street: South Greeley Highway
+housenumber: "700"
+phone: +1 307-635-7877
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/wy/cheyenne/700-s-greeley-hwy.html

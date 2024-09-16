@@ -1,11 +1,11 @@
 id: 392631487
-type: way
+type: node
 latitude: 41.32045
 longitude: -105.59364
 postcode: "82070"
 city: Laramie
-street: "North 3rd Street"
-housenumber: 860
+street: North 3rd Street
+housenumber: "860"
 phone: ""
 opening_hours: ""
 website: ""

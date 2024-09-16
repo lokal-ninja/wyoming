@@ -1,11 +1,11 @@
 id: 129481446
-type: way
+type: node
 latitude: 41.31737
 longitude: -105.59498
 postcode: "82070"
 city: Laramie
-street: "North 3rd Street"
-housenumber: 554
-phone: "+1 307-721-5107"
+street: North 3rd Street
+housenumber: "554"
+phone: +1 307-721-5107
 opening_hours: ""
-website: "https://local.safeway.com/safeway/wy/laramie/554-n-3rd-st.html"
+website: https://local.safeway.com/safeway/wy/laramie/554-n-3rd-st.html

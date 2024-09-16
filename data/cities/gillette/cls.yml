@@ -1,11 +1,11 @@
 id: 531286081
-type: way
+type: node
 latitude: 44.24623
 longitude: -105.47673
 postcode: "82718"
 city: Gillette
-street: "South Winland Drive"
-housenumber: 5221
+street: South Winland Drive
+housenumber: "5221"
 phone: ""
 opening_hours: ""
-website: "http://www.compressionleasing.com/"
+website: http://www.compressionleasing.com/

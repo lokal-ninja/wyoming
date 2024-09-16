@@ -1,11 +1,11 @@
 id: 751739437
-type: way
+type: node
 latitude: 41.79401
 longitude: -107.21707
 postcode: "82301"
 city: Rawlins
-street: "North Higley Boulevard"
-housenumber: 502
+street: North Higley Boulevard
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

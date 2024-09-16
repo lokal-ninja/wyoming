@@ -4,8 +4,8 @@ latitude: 42.71742
 longitude: -110.93421
 postcode: "83110"
 city: Afton
-street: "Washington Street"
-housenumber: 724
-phone: "+1 307-885-7883"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.acehardware.com/"
+street: Washington Street
+housenumber: "724"
+phone: +1 307-885-7883
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.acehardware.com/

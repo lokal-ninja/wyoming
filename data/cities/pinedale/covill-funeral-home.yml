@@ -1,11 +1,11 @@
 id: 372070555
-type: way
+type: node
 latitude: 42.86863
 longitude: -109.85775
 postcode: "82941"
 city: Pinedale
-street: "North Bridger Avenue"
-housenumber: 164
-phone: "+1 307 367 2321"
+street: North Bridger Avenue
+housenumber: "164"
+phone: +1 307 367 2321
 opening_hours: ""
-website: "https://www.covillfuneralhome.com/"
+website: https://www.covillfuneralhome.com/

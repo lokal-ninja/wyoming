@@ -1,11 +1,11 @@
 id: 238537083
-type: way
+type: node
 latitude: 41.13085
 longitude: -104.83855
 postcode: "82001"
 city: Cheyenne
-street: "Westland Road"
-housenumber: 2245
-phone: "+1-307-432-6617"
+street: Westland Road
+housenumber: "2245"
+phone: +1-307-432-6617
 opening_hours: ""
 website: ""

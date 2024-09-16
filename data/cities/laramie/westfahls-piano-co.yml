@@ -1,11 +1,11 @@
 id: 238636769
-type: way
+type: node
 latitude: 41.3106
 longitude: -105.59381
-postcode: "82070-3624"
+postcode: 82070-3624
 city: Laramie
-street: "South 3rd Street"
-housenumber: 310
-phone: "+1 307 742 4596"
+street: South 3rd Street
+housenumber: "310"
+phone: +1 307 742 4596
 opening_hours: ""
-website: "https://westfahlspiano.com/"
+website: https://westfahlspiano.com/

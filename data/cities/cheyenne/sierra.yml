@@ -1,11 +1,11 @@
 id: 90283318
-type: way
+type: node
 latitude: 41.12717
 longitude: -104.74909
 postcode: "82007"
 city: Cheyenne
-street: "Campstool Road"
-housenumber: 5025
+street: Campstool Road
+housenumber: "5025"
 phone: ""
 opening_hours: ""
 website: ""

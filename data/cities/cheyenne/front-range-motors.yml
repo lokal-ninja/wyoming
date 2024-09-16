@@ -1,11 +1,11 @@
 id: 239951318
-type: way
+type: node
 latitude: 41.10908
 longitude: -104.80079
 postcode: "82007"
 city: Cheyenne
-street: "South Greeley Highway"
-housenumber: 904
-phone: "+1 307 638 8480"
+street: South Greeley Highway
+housenumber: "904"
+phone: +1 307 638 8480
 opening_hours: ""
-website: "https://www.frontrangemotors.net/"
+website: https://www.frontrangemotors.net/

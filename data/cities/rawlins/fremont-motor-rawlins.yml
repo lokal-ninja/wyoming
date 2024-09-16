@@ -1,11 +1,11 @@
 id: 535256536
-type: way
+type: node
 latitude: 41.79041
 longitude: -107.22853
 postcode: "82301"
 city: Rawlins
-street: "East Cedar Street"
-housenumber: 823
-phone: "+1-307-417-5007"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-17:00"
-website: "https://www.fremontchryslerdodgejeeprawlins.com/"
+street: East Cedar Street
+housenumber: "823"
+phone: +1-307-417-5007
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-17:00
+website: https://www.fremontchryslerdodgejeeprawlins.com/

@@ -4,8 +4,8 @@ latitude: 42.73607
 longitude: -110.93281
 postcode: "83110"
 city: Afton
-street: "North Washington Street"
-housenumber: 201
-phone: "+1-307-886-3454"
+street: North Washington Street
+housenumber: "201"
+phone: +1-307-886-3454
 opening_hours: ""
-website: "https://www.pointstire.com/afton"
+website: https://www.pointstire.com/afton

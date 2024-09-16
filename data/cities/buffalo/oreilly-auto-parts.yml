@@ -1,11 +1,11 @@
 id: 688189751
-type: way
+type: node
 latitude: 44.35477
 longitude: -106.6927
 postcode: "82834"
 city: Buffalo
-street: "East Hart Street"
-housenumber: 460
+street: East Hart Street
+housenumber: "460"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wy/buffalo/autoparts-4499.html"
+website: https://locations.oreillyauto.com/wy/buffalo/autoparts-4499.html

@@ -1,11 +1,11 @@
 id: 237067739
-type: way
+type: node
 latitude: 41.13259
 longitude: -104.81537
 postcode: "82001"
 city: Cheyenne
-street: "Capitol Avenue"
-housenumber: 1518
-phone: "+1 307 634 3048"
+street: Capitol Avenue
+housenumber: "1518"
+phone: +1 307 634 3048
 opening_hours: ""
-website: "https://www.bootbarn.com/"
+website: https://www.bootbarn.com/

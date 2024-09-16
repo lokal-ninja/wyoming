@@ -1,11 +1,11 @@
 id: 373355310
-type: way
+type: node
 latitude: 42.86647
 longitude: -109.86544
 postcode: "82941"
 city: Pinedale
-street: "West Pine Street"
-housenumber: 332
-phone: "+1 307 367 2440"
+street: West Pine Street
+housenumber: "332"
+phone: +1 307 367 2440
 opening_hours: ""
-website: "https://www.greatoutdoorshop.com/"
+website: https://www.greatoutdoorshop.com/

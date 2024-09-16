@@ -1,11 +1,11 @@
 id: 1306008754
-type: way
+type: node
 latitude: 44.68297
 longitude: -104.59931
 postcode: "82720"
 city: Hulett
-street: "North Highway 24"
-housenumber: 104
-phone: "+1-605-206-0745"
+street: North Highway 24
+housenumber: "104"
+phone: +1-605-206-0745
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1140701863
-type: way
+type: node
 latitude: 44.77833
 longitude: -106.93957
 postcode: "82801"
 city: Sheridan
-street: "Sugarland Drive"
-housenumber: 1820
-phone: "+1 307-672-1798"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wy/sheridan/pet-supplies-sheridan-wy-2438.html"
+street: Sugarland Drive
+housenumber: "1820"
+phone: +1 307-672-1798
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/wy/sheridan/pet-supplies-sheridan-wy-2438.html

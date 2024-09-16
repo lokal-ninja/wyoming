@@ -1,11 +1,11 @@
 id: 550015049
-type: way
+type: node
 latitude: 44.29131
 longitude: -105.5042
 postcode: "82716"
 city: Gillette
-street: "South Gillette Avenue"
-housenumber: 320
+street: South Gillette Avenue
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

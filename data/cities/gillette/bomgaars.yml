@@ -1,11 +1,11 @@
 id: 503458648
-type: way
+type: node
 latitude: 44.27188
 longitude: -105.48285
 postcode: "82718"
 city: Gillette
-street: "Town Center Drive"
-housenumber: 195
+street: Town Center Drive
+housenumber: "195"
 phone: ""
 opening_hours: ""
-website: "https://www.bomgaars.com/contact-us/locations/gillette-bomgaars/"
+website: https://www.bomgaars.com/contact-us/locations/gillette-bomgaars/

@@ -1,11 +1,11 @@
 id: 372108411
-type: way
+type: node
 latitude: 42.8678
 longitude: -109.85736
 postcode: "82941"
 city: Pinedale
-street: "North Bridger Avenue"
-housenumber: 104
-phone: "+1 307 367 3206"
-opening_hours: "Su off"
+street: North Bridger Avenue
+housenumber: "104"
+phone: +1 307 367 3206
+opening_hours: Su off
 website: ""

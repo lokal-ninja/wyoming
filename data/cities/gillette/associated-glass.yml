@@ -1,11 +1,11 @@
 id: 261052983
-type: way
+type: node
 latitude: 44.29072
 longitude: -105.49356
 postcode: "82716"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 407
+street: South Douglas Highway
+housenumber: "407"
 phone: ""
 opening_hours: ""
-website: "http://www.associatedglassinc.com/"
+website: http://www.associatedglassinc.com/

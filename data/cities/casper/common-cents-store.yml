@@ -1,11 +1,11 @@
 id: 1075454477
-type: way
+type: node
 latitude: 42.85694
 longitude: -106.33496
 postcode: "82601"
 city: Casper
-street: "North Poplar Street"
-housenumber: 632
+street: North Poplar Street
+housenumber: "632"
 phone: ""
 opening_hours: ""
 website: ""

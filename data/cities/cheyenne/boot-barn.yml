@@ -1,11 +1,11 @@
 id: 258701978
-type: way
+type: node
 latitude: 41.15974
 longitude: -104.8007
 postcode: "82009"
 city: Cheyenne
-street: "Frontier Mall Drive"
-housenumber: 4519
+street: Frontier Mall Drive
+housenumber: "4519"
 phone: ""
 opening_hours: ""
-website: "https://www.bootbarn.com/stores?StoreID=0071"
+website: https://www.bootbarn.com/stores?StoreID=0071

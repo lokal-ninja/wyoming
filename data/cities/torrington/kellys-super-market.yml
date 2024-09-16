@@ -1,11 +1,11 @@
 id: 533954677
-type: way
+type: node
 latitude: 42.0552
 longitude: -104.18465
 postcode: "82240"
 city: Torrington
-street: "Main Street"
-housenumber: 1042
-phone: "+1 307 532 3113"
+street: Main Street
+housenumber: "1042"
+phone: +1 307 532 3113
 opening_hours: ""
-website: "https://kellyssuper.com/"
+website: https://kellyssuper.com/

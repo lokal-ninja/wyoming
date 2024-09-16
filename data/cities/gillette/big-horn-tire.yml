@@ -1,11 +1,11 @@
 id: 266761900
-type: way
+type: node
 latitude: 44.2906
 longitude: -105.52921
 postcode: "82718"
 city: Gillette
-street: "Westside Drive"
-housenumber: 501
+street: Westside Drive
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://bighorntire.com/"
+website: https://bighorntire.com/

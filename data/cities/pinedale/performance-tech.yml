@@ -1,11 +1,11 @@
 id: 395464712
-type: way
+type: node
 latitude: 42.8662
 longitude: -109.88396
 postcode: "82941"
 city: Pinedale
-street: "United States Highway 191"
-housenumber: 1554
-phone: "+1 307 367 6644"
+street: United States Highway 191
+housenumber: "1554"
+phone: +1 307 367 6644
 opening_hours: ""
-website: "https://performancetechwy.com/"
+website: https://performancetechwy.com/

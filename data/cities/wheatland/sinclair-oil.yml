@@ -1,11 +1,11 @@
 id: 324588824
-type: way
+type: node
 latitude: 42.07377
 longitude: -104.96404
 postcode: "82201"
 city: Wheatland
-street: "Swanson Road"
-housenumber: 81
+street: Swanson Road
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

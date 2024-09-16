@@ -1,11 +1,11 @@
 id: 33299107
-type: way
+type: node
 latitude: 42.84809
 longitude: -106.26721
 postcode: ""
 city: Casper
-street: "Southeast Wyoming Boulevard"
-housenumber: 601
-phone: "+1 307-265-9392"
+street: Southeast Wyoming Boulevard
+housenumber: "601"
+phone: +1 307-265-9392
 opening_hours: ""
-website: "https://www.shopeastridge.com/en.html"
+website: https://www.shopeastridge.com/en.html

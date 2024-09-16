@@ -1,11 +1,11 @@
 id: 238531848
-type: way
+type: node
 latitude: 41.31103
 longitude: -105.59544
 postcode: ""
 city: Laramie
-street: "East Grand Avenue"
-housenumber: 114
-phone: "+1 307-742-9279"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.facebook.com/pages/DL-Music/136201586407775"
+street: East Grand Avenue
+housenumber: "114"
+phone: +1 307-742-9279
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://www.facebook.com/pages/DL-Music/136201586407775

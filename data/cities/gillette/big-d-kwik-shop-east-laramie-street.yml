@@ -1,11 +1,11 @@
 id: 265498069
-type: way
+type: node
 latitude: 44.29541
 longitude: -105.48972
 postcode: "82716"
 city: Gillette
-street: "East Laramie Street"
-housenumber: 920
+street: East Laramie Street
+housenumber: "920"
 phone: ""
 opening_hours: ""
-website: "http://www.bigdoil.com/920-e-laramie-st-gillette/"
+website: http://www.bigdoil.com/920-e-laramie-st-gillette/

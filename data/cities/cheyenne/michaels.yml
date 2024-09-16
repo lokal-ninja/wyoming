@@ -1,11 +1,11 @@
 id: 232363209
-type: way
+type: node
 latitude: 41.16678
 longitude: -104.80018
 postcode: "82009"
 city: Cheyenne
-street: "Rue Terre"
-housenumber: 5204
-phone: "+1 307-638-8435"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wy/cheyenne/7768/"
+street: Rue Terre
+housenumber: "5204"
+phone: +1 307-638-8435
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wy/cheyenne/7768/

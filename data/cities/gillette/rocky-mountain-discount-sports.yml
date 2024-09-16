@@ -1,11 +1,11 @@
 id: 512752937
-type: way
+type: node
 latitude: 44.24976
 longitude: -105.48347
 postcode: "82718"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 4706
+street: South Douglas Highway
+housenumber: "4706"
 phone: ""
 opening_hours: ""
 website: ""

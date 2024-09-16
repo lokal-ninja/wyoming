@@ -1,11 +1,11 @@
 id: 986628974
-type: way
+type: node
 latitude: 42.84793
 longitude: -106.32557
 postcode: "82601"
 city: Casper
-street: "South Center Street"
-housenumber: 240
+street: South Center Street
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

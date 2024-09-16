@@ -1,11 +1,11 @@
 id: 564901632
-type: way
+type: node
 latitude: 44.29462
 longitude: -105.52063
 postcode: "82716"
 city: Gillette
-street: "Butcher Court"
-housenumber: 1300
+street: Butcher Court
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

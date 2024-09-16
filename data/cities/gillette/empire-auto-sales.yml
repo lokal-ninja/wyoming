@@ -1,11 +1,11 @@
 id: 1208946854
-type: way
+type: node
 latitude: 44.23601
 longitude: -105.46101
 postcode: "82718"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 6505
+street: South Douglas Highway
+housenumber: "6505"
 phone: ""
 opening_hours: ""
-website: "https://www.empireautosalesllc.com/"
+website: https://www.empireautosalesllc.com/

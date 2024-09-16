@@ -1,11 +1,11 @@
 id: 238536716
-type: way
+type: node
 latitude: 41.13024
 longitude: -104.83852
 postcode: "82001"
 city: Cheyenne
-street: "Westland Road"
-housenumber: 2245
-phone: "+1-307-459-1277"
+street: Westland Road
+housenumber: "2245"
+phone: +1-307-459-1277
 opening_hours: ""
-website: "https://www.spradleybarrhyundai.com/"
+website: https://www.spradleybarrhyundai.com/

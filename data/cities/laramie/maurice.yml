@@ -1,11 +1,11 @@
 id: 238531851
-type: way
+type: node
 latitude: 41.31061
 longitude: -105.59511
-postcode: "82070-3678"
+postcode: 82070-3678
 city: Laramie
-street: "South 2nd Street"
-housenumber: 308
-phone: "+1 307 721 5187"
+street: South 2nd Street
+housenumber: "308"
+phone: +1 307 721 5187
 opening_hours: ""
-website: "https://www.maurices.com/"
+website: https://www.maurices.com/

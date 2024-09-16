@@ -1,11 +1,11 @@
 id: 530867339
-type: way
+type: node
 latitude: 44.30142
 longitude: -105.52903
 postcode: "82716"
 city: Gillette
-street: "West Warlow Drive"
-housenumber: 1900
+street: West Warlow Drive
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.simpsonsprinting.com/"
+website: https://www.simpsonsprinting.com/

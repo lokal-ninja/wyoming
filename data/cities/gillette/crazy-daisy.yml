@@ -1,11 +1,11 @@
 id: 491802712
-type: way
+type: node
 latitude: 44.26872
 longitude: -105.49663
 postcode: "82718"
 city: Gillette
-street: "East Lakeway Road"
-housenumber: 502
+street: East Lakeway Road
+housenumber: "502"
 phone: ""
 opening_hours: ""
-website: "https://crazydaisyfloralwy.com/"
+website: https://crazydaisyfloralwy.com/

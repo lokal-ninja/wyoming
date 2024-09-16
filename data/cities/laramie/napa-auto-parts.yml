@@ -1,11 +1,11 @@
 id: 534916389
-type: way
+type: node
 latitude: 41.30792
 longitude: -105.59542
 postcode: "82070"
 city: Laramie
-street: "South 2nd Street"
-housenumber: 606
+street: South 2nd Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

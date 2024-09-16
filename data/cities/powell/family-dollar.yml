@@ -1,11 +1,11 @@
 id: 560895249
-type: way
+type: node
 latitude: 44.74834
 longitude: -108.77099
 postcode: "82435"
 city: Powell
-street: "Mountain View Street"
-housenumber: 474
+street: Mountain View Street
+housenumber: "474"
 phone: ""
 opening_hours: ""
 website: ""

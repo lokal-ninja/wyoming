@@ -1,11 +1,11 @@
 id: 238568843
-type: way
+type: node
 latitude: 41.3122
 longitude: -105.59538
 postcode: ""
 city: Laramie
-street: "East Ivinson Avenue"
-housenumber: 113
-phone: "+1 307-742-9278"
+street: East Ivinson Avenue
+housenumber: "113"
+phone: +1 307-742-9278
 opening_hours: ""
-website: "https://www.facebook.com/thechocolatecellar/"
+website: https://www.facebook.com/thechocolatecellar/

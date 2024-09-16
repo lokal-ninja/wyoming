@@ -1,11 +1,11 @@
 id: 1075454471
-type: way
+type: node
 latitude: 42.91049
 longitude: -106.34049
 postcode: "82601"
 city: Bar Nunn
-street: "Salt Creek Highway"
-housenumber: 4455
+street: Salt Creek Highway
+housenumber: "4455"
 phone: ""
 opening_hours: ""
 website: ""

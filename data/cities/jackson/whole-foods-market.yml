@@ -1,11 +1,11 @@
 id: 236871896
-type: way
+type: node
 latitude: 43.46375
 longitude: -110.79379
 postcode: "83001"
 city: Jackson
-street: "South Highway 89"
-housenumber: 1155
-phone: "+1 307-733-0450"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/jacksonwyoming"
+street: South Highway 89
+housenumber: "1155"
+phone: +1 307-733-0450
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/jacksonwyoming

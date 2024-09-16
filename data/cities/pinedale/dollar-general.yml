@@ -1,11 +1,11 @@
 id: 372858813
-type: way
+type: node
 latitude: 42.86696
 longitude: -109.87175
 postcode: "82941"
 city: Pinedale
-street: "West Pine Street"
-housenumber: 835
-phone: "+1 307 200 3113"
-opening_hours: "Su 09:00-21:00, Mo-Sa 08:00-21:00"
-website: "https://www.familydollar.com/"
+street: West Pine Street
+housenumber: "835"
+phone: +1 307 200 3113
+opening_hours: Su 09:00-21:00, Mo-Sa 08:00-21:00
+website: https://www.familydollar.com/

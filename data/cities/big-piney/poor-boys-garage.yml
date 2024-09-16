@@ -1,11 +1,11 @@
 id: 1008245253
-type: way
+type: node
 latitude: 42.53762
 longitude: -110.1102
 postcode: "83113"
 city: Big Piney
-street: "South Front Street"
-housenumber: 131
-phone: "+1 307 212 4200"
+street: South Front Street
+housenumber: "131"
+phone: +1 307 212 4200
 opening_hours: ""
 website: ""

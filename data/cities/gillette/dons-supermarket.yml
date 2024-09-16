@@ -1,11 +1,11 @@
 id: 489698306
-type: way
+type: node
 latitude: 44.29275
 longitude: -105.5237
 postcode: "82716"
 city: Gillette
-street: "West 2nd Street"
-housenumber: 1501
-phone: "+1-307-687-1086"
-opening_hours: "06:00-22:00"
-website: "https://dons.afmgrocer.com/"
+street: West 2nd Street
+housenumber: "1501"
+phone: +1-307-687-1086
+opening_hours: 06:00-22:00
+website: https://dons.afmgrocer.com/

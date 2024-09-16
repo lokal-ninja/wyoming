@@ -1,11 +1,11 @@
 id: 677198758
-type: way
+type: node
 latitude: 44.28859
 longitude: -105.52524
 postcode: "82718"
 city: Gillette
-street: "Metz Drive"
-housenumber: 701
-phone: "+1 307-689-0202"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.bishstrailerandautosales.com/"
+street: Metz Drive
+housenumber: "701"
+phone: +1 307-689-0202
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.bishstrailerandautosales.com/

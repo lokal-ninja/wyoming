@@ -1,11 +1,11 @@
 id: 238536140
-type: way
+type: node
 latitude: 41.31086
 longitude: -105.59481
 postcode: ""
 city: Laramie
-street: "South 2nd Street"
-housenumber: 305
-phone: "+1 307-745-3682"
-opening_hours: "Mo-We 10:00-18:00; Fr 10:00-16:00"
-website: "https://www.facebook.com/Spectacle.Emporium"
+street: South 2nd Street
+housenumber: "305"
+phone: +1 307-745-3682
+opening_hours: Mo-We 10:00-18:00; Fr 10:00-16:00
+website: https://www.facebook.com/Spectacle.Emporium

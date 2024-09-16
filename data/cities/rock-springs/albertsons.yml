@@ -4,8 +4,8 @@ latitude: 41.5759
 longitude: -109.23622
 postcode: "82901"
 city: Rock Springs
-street: "Dewar Drive"
-housenumber: 1323
-phone: "+1 307-362-8386"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00"
-website: "https://local.albertsons.com/wy/rock-springs/1323-dewar-dr.html"
+street: Dewar Drive
+housenumber: "1323"
+phone: +1 307-362-8386
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00
+website: https://local.albertsons.com/wy/rock-springs/1323-dewar-dr.html

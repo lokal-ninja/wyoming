@@ -1,11 +1,11 @@
 id: 1301596243
-type: way
+type: node
 latitude: 42.99044
 longitude: -108.87313
 postcode: "82514"
 city: Fort Washakie
-street: "US 287"
-housenumber: 14597
+street: US 287
+housenumber: "14597"
 phone: ""
 opening_hours: ""
 website: ""

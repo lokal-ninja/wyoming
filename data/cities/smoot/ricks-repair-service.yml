@@ -1,11 +1,11 @@
 id: 827689327
-type: way
+type: node
 latitude: 42.63094
 longitude: -110.91913
 postcode: "83110"
 city: Smoot
-street: "US 89"
-housenumber: 77406
-phone: "+1 307-886-9536"
+street: US 89
+housenumber: "77406"
+phone: +1 307-886-9536
 opening_hours: ""
 website: ""

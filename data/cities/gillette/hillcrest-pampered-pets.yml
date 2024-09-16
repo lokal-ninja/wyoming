@@ -1,11 +1,11 @@
 id: 264054678
-type: way
+type: node
 latitude: 44.28866
 longitude: -105.47945
 postcode: "82716"
 city: Gillette
-street: "Butler Spaeth Road"
-housenumber: 610
-phone: "+1-307-685-5009"
+street: Butler Spaeth Road
+housenumber: "610"
+phone: +1-307-685-5009
 opening_hours: ""
 website: ""

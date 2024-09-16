@@ -1,11 +1,11 @@
 id: 660894229
-type: way
+type: node
 latitude: 42.71485
 longitude: -110.93237
 postcode: "83110"
 city: Afton
-street: "South Washington Street"
-housenumber: 855
-phone: "+1 307-886-5600"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Washington Street
+housenumber: "855"
+phone: +1 307-886-5600
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

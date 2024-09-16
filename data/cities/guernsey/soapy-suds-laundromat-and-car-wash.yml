@@ -1,11 +1,11 @@
 id: 534051283
-type: way
+type: node
 latitude: 42.26793
 longitude: -104.74196
 postcode: "82214"
 city: Guernsey
-street: "South Wyoming Avenue"
-housenumber: 181
+street: South Wyoming Avenue
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

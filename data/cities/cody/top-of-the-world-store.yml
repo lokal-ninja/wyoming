@@ -1,11 +1,11 @@
 id: 332084140
-type: way
+type: node
 latitude: 44.94306
 longitude: -109.55992
 postcode: "82414"
 city: Cody
-street: "Highway 212"
-housenumber: 2823
+street: Highway 212
+housenumber: "2823"
 phone: ""
 opening_hours: ""
 website: ""

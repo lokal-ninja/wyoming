@@ -1,11 +1,11 @@
 id: 750212573
-type: way
+type: node
 latitude: 41.14595
 longitude: -104.83055
 postcode: "82001"
 city: Cheyenne
-street: "West Pershing Boulevard"
-housenumber: 801
-phone: "+1-307-514-6555"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-16:00"
-website: "https://cheyennedog.com/"
+street: West Pershing Boulevard
+housenumber: "801"
+phone: +1-307-514-6555
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-16:00
+website: https://cheyennedog.com/

@@ -1,11 +1,11 @@
 id: 1202449085
-type: way
+type: node
 latitude: 41.79481
 longitude: -107.21203
 postcode: "82301"
 city: Rawlins
-street: "Plaza Street"
-housenumber: 2201
-phone: "+1 307-324-0076"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Plaza Street
+housenumber: "2201"
+phone: +1 307-324-0076
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

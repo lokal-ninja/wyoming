@@ -1,11 +1,11 @@
 id: 1010059442
-type: way
+type: node
 latitude: 43.53021
 longitude: -109.62878
 postcode: "82513"
 city: Dubois
-street: "South 1st Street"
-housenumber: 307
+street: South 1st Street
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

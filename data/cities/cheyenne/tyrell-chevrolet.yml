@@ -1,11 +1,11 @@
 id: 238533353
-type: way
+type: node
 latitude: 41.12456
 longitude: -104.84094
 postcode: "82001"
 city: Cheyenne
-street: "West Lincolnway"
-housenumber: 2142
-phone: "+1-307-634-2540"
+street: West Lincolnway
+housenumber: "2142"
+phone: +1-307-634-2540
 opening_hours: ""
-website: "www.tyrrelldoylechevrolet.com"
+website: www.tyrrelldoylechevrolet.com

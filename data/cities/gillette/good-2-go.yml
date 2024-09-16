@@ -1,11 +1,11 @@
 id: 261042066
-type: way
+type: node
 latitude: 44.29037
 longitude: -105.4749
 postcode: "82716"
 city: Gillette
-street: "U.S. 14"
-housenumber: 1616
+street: U.S. 14
+housenumber: "1616"
 phone: ""
 opening_hours: ""
 website: ""

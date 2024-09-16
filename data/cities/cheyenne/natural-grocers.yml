@@ -1,11 +1,11 @@
 id: 90283299
-type: way
+type: node
 latitude: 41.15959
 longitude: -104.79562
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 1151
-phone: "+1-307-632-3000"
-opening_hours: "Mo-Sa 08:30-20:36,09:00-19:35"
-website: "https://www.barnesandnoble.com/"
+street: Dell Range Boulevard
+housenumber: "1151"
+phone: +1-307-632-3000
+opening_hours: Mo-Sa 08:30-20:36,09:00-19:35
+website: https://www.barnesandnoble.com/

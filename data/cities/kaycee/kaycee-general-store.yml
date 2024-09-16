@@ -1,11 +1,11 @@
 id: 1158806200
-type: way
+type: node
 latitude: 43.71388
 longitude: -106.64083
 postcode: "82639"
 city: Kaycee
-street: "Park Avenue"
-housenumber: 102
+street: Park Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

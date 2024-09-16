@@ -1,11 +1,11 @@
 id: 238568850
-type: way
+type: node
 latitude: 41.31219
 longitude: -105.59522
 postcode: ""
 city: Laramie
-street: "East Ivinson Avenue"
-housenumber: 117
-phone: "+1 307-745-4114"
-opening_hours: "Mo-Tu 10:00-18:00; We-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://www.facebook.com/pages/Sweet-Pickles-Childrens-Store/318875915341"
+street: East Ivinson Avenue
+housenumber: "117"
+phone: +1 307-745-4114
+opening_hours: Mo-Tu 10:00-18:00; We-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00
+website: https://www.facebook.com/pages/Sweet-Pickles-Childrens-Store/318875915341

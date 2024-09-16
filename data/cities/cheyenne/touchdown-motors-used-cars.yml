@@ -1,11 +1,11 @@
 id: 238534921
-type: way
+type: node
 latitude: 41.12831
 longitude: -104.83954
 postcode: "82001"
 city: Cheyenne
-street: "Westland Road"
-housenumber: 1880
+street: Westland Road
+housenumber: "1880"
 phone: ""
 opening_hours: ""
-website: "www.tyrrelldoyle.com"
+website: www.tyrrelldoyle.com

@@ -1,11 +1,11 @@
 id: 1010059427
-type: way
+type: node
 latitude: 43.53622
 longitude: -109.64016
 postcode: "82513"
 city: Dubois
-street: "West Ramshorn Street"
-housenumber: 610
-phone: "+1 (307) 455-2402"
+street: West Ramshorn Street
+housenumber: "610"
+phone: +1 (307) 455-2402
 opening_hours: ""
 website: ""

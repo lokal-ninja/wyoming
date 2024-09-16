@@ -1,11 +1,11 @@
 id: 238563111
-type: way
+type: node
 latitude: 41.31175
 longitude: -105.59472
 postcode: ""
 city: Laramie
-street: "South 2nd Street"
-housenumber: 205
+street: South 2nd Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/alexandersfinejewelry/"
+website: https://www.facebook.com/alexandersfinejewelry/

@@ -1,11 +1,11 @@
 id: 1075462015
-type: way
+type: node
 latitude: 42.85761
 longitude: -106.3248
 postcode: "82601"
 city: Casper
-street: "East F Street"
-housenumber: 66
+street: East F Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

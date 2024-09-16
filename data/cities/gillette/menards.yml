@@ -1,11 +1,11 @@
 id: 511307550
-type: way
+type: node
 latitude: 44.271
 longitude: -105.48833
 postcode: "82718"
 city: Gillette
-street: "East Lakeway Road"
-housenumber: 1051
+street: East Lakeway Road
+housenumber: "1051"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/main/storeDetails.html?store=3325"
+website: https://www.menards.com/main/storeDetails.html?store=3325

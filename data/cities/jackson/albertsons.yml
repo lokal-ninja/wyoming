@@ -1,11 +1,11 @@
 id: 121590009
-type: way
+type: node
 latitude: 43.47303
 longitude: -110.78912
 postcode: "83001"
 city: Jackson
-street: "Buffalo Way"
-housenumber: 105
-phone: "+1-307-733-5950"
-opening_hours: "06:00-24:00"
-website: "https://local.albertsons.com/wy/jackson/105-buffalo-way.html"
+street: Buffalo Way
+housenumber: "105"
+phone: +1-307-733-5950
+opening_hours: 06:00-24:00
+website: https://local.albertsons.com/wy/jackson/105-buffalo-way.html

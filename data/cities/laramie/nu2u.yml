@@ -1,11 +1,11 @@
 id: 390138650
-type: way
+type: node
 latitude: 41.31033
 longitude: -105.59142
 postcode: "82070"
 city: Laramie
-street: "South 5th Street"
-housenumber: 320
+street: South 5th Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

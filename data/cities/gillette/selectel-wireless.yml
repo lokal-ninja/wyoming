@@ -1,11 +1,11 @@
 id: 491050847
-type: way
+type: node
 latitude: 44.29306
 longitude: -105.50228
 postcode: "82716"
 city: Gillette
-street: "East 2nd Street"
-housenumber: 200
+street: East 2nd Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://myselectel.com/"
+website: https://myselectel.com/

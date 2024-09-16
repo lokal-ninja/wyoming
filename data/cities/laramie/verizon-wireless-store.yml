@@ -1,11 +1,11 @@
 id: 238636767
-type: way
+type: node
 latitude: 41.31047
 longitude: -105.59382
-postcode: "82070-3624"
+postcode: 82070-3624
 city: Laramie
-street: "South 3rd Street"
-housenumber: 318
-phone: "+1 307 721 4858"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.cellularplus.com/locations/14323/laramie-dtn/"
+street: South 3rd Street
+housenumber: "318"
+phone: +1 307 721 4858
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.cellularplus.com/locations/14323/laramie-dtn/

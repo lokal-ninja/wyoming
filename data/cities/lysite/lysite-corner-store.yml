@@ -1,11 +1,11 @@
 id: 1058904338
-type: way
+type: node
 latitude: 43.26982
 longitude: -107.68907
 postcode: "82642"
 city: Lysite
-street: "Schoening Street"
-housenumber: 86
+street: Schoening Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

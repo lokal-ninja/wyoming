@@ -1,11 +1,11 @@
 id: 305495697
-type: way
+type: node
 latitude: 43.64744
 longitude: -108.21153
 postcode: "82443"
 city: Thermopolis
-street: "Arapahoe Street"
-housenumber: 536
+street: Arapahoe Street
+housenumber: "536"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 259219057
-type: way
+type: node
 latitude: 41.58959
 longitude: -109.22481
-postcode: "82901-5130"
+postcode: 82901-5130
 city: Rock Springs
-street: "North Center Street"
-housenumber: 400
-phone: "+1 307-362-7362"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
+street: North Center Street
+housenumber: "400"
+phone: +1 307-362-7362
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
 website: ""

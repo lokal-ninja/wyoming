@@ -1,11 +1,11 @@
 id: 509046908
-type: way
+type: node
 latitude: 44.29549
 longitude: -105.51622
 postcode: "82716"
 city: Gillette
-street: "West 1st Street"
-housenumber: 925
-phone: "+1-307-686-6630"
+street: West 1st Street
+housenumber: "925"
+phone: +1-307-686-6630
 opening_hours: ""
-website: "https://www.firstclassautobodywy.com/"
+website: https://www.firstclassautobodywy.com/

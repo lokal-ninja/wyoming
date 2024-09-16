@@ -4,8 +4,8 @@ latitude: 42.86726
 longitude: -109.85578
 postcode: "82941"
 city: Pinedale
-street: "East Pine Street"
-housenumber: 341
-phone: "+1 307-367-2131"
-opening_hours: "06:00-23:00"
+street: East Pine Street
+housenumber: "341"
+phone: +1 307-367-2131
+opening_hours: 06:00-23:00
 website: ""

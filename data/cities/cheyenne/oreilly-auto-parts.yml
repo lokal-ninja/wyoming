@@ -1,11 +1,11 @@
 id: 236930669
-type: way
+type: node
 latitude: 41.15981
 longitude: -104.81114
 postcode: "82009"
 city: Cheyenne
-street: "Dell Range Boulevard"
-housenumber: 1211
-phone: "+1-307-632-5382"
+street: Dell Range Boulevard
+housenumber: "1211"
+phone: +1-307-632-5382
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wy/cheyenne/autoparts-3189.html"
+website: https://locations.oreillyauto.com/wy/cheyenne/autoparts-3189.html

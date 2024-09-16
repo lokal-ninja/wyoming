@@ -1,11 +1,11 @@
 id: 491050839
-type: way
+type: node
 latitude: 44.29276
 longitude: -105.51568
 postcode: "82716"
 city: Gillette
-street: "West 2nd Street"
-housenumber: 901
+street: West 2nd Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://www.cchwyo.org/Services/CCH/Home_Medical_Resources.aspx"
+website: https://www.cchwyo.org/Services/CCH/Home_Medical_Resources.aspx

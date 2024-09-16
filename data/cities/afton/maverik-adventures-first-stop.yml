@@ -4,8 +4,8 @@ latitude: 42.72566
 longitude: -110.93273
 postcode: "83110"
 city: Afton
-street: "Washington Street"
-housenumber: 391
-phone: "+1-307-392-4841"
+street: Washington Street
+housenumber: "391"
+phone: +1-307-392-4841
 opening_hours: ""
-website: "https://maverik.com/"
+website: https://maverik.com/

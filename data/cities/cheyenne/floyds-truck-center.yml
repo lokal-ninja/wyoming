@@ -1,11 +1,11 @@
 id: 317310702
-type: way
+type: node
 latitude: 41.12114
 longitude: -104.80427
 postcode: "82007"
 city: Cheyenne
-street: "East 1st Street"
-housenumber: 221
+street: East 1st Street
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

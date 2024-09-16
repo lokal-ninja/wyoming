@@ -1,11 +1,11 @@
 id: 250698486
-type: way
+type: node
 latitude: 42.07542
 longitude: -109.43711
 postcode: "82932"
 city: Farson
-street: "Highway 191"
-housenumber: 3800
+street: Highway 191
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

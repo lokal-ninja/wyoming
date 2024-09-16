@@ -1,11 +1,11 @@
 id: 666745866
-type: way
+type: node
 latitude: 42.50357
 longitude: -105.02818
 postcode: "82213"
 city: Glendo
-street: "A Street"
-housenumber: 106
+street: A Street
+housenumber: "106"
 phone: ""
-opening_hours: "06:00-21:00"
+opening_hours: 06:00-21:00
 website: ""

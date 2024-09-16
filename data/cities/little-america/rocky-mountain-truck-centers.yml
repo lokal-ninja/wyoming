@@ -1,11 +1,11 @@
 id: 159641164
-type: way
+type: node
 latitude: 41.54453
 longitude: -109.85453
 postcode: "82929"
 city: Little America
-street: "Antelope Drive"
-housenumber: 6924
-phone: "(307) 364-0055"
-opening_hours: "24/7"
-website: "https://247breakdown.com/locations/"
+street: Antelope Drive
+housenumber: "6924"
+phone: (307) 364-0055
+opening_hours: 24/7
+website: https://247breakdown.com/locations/

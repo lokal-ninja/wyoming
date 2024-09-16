@@ -1,11 +1,11 @@
 id: 261052977
-type: way
+type: node
 latitude: 44.29207
 longitude: -105.49448
 postcode: "82716"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 302
+street: South Douglas Highway
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "https://www.flyhighsneakerstore.com/"
+website: https://www.flyhighsneakerstore.com/

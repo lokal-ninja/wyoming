@@ -1,11 +1,11 @@
 id: 549377180
-type: way
+type: node
 latitude: 41.16738
 longitude: -104.83729
 postcode: "82009"
 city: Cheyenne
-street: "Walker Road"
-housenumber: 5405
+street: Walker Road
+housenumber: "5405"
 phone: ""
 opening_hours: ""
 website: ""

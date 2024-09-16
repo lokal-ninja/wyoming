@@ -1,11 +1,11 @@
 id: 489694094
-type: way
+type: node
 latitude: 44.26875
 longitude: -105.4949
 postcode: "82718"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 2800
+street: South Douglas Highway
+housenumber: "2800"
 phone: ""
 opening_hours: ""
-website: "https://www.loafnjug.com/"
+website: https://www.loafnjug.com/

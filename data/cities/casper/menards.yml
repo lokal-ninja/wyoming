@@ -1,11 +1,11 @@
 id: 236455508
-type: way
+type: node
 latitude: 42.84522
 longitude: -106.23087
 postcode: "82609"
 city: Casper
-street: "Menards Drive"
-housenumber: 6220
-phone: "+1 307-233-9410"
-opening_hours: "Mo-Sa 06:30-22:00; Su 08:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3243"
+street: Menards Drive
+housenumber: "6220"
+phone: +1 307-233-9410
+opening_hours: Mo-Sa 06:30-22:00; Su 08:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3243

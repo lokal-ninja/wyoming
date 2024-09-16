@@ -1,11 +1,11 @@
 id: 531533642
-type: way
+type: node
 latitude: 44.26355
 longitude: -105.49504
 postcode: "82718"
 city: Gillette
-street: "Bird Drive"
-housenumber: 3526
+street: Bird Drive
+housenumber: "3526"
 phone: ""
 opening_hours: ""
-website: "https://www.wildwestent.com/"
+website: https://www.wildwestent.com/

@@ -1,11 +1,11 @@
 id: 245692812
-type: way
+type: node
 latitude: 44.51869
 longitude: -109.08972
 postcode: "82414"
 city: Cody
-street: "Yellowstone Avenue"
-housenumber: 321
-phone: "+1 307-527-4673"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1778/cody-wy/whats-new"
+street: Yellowstone Avenue
+housenumber: "321"
+phone: +1 307-527-4673
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1778/cody-wy/whats-new

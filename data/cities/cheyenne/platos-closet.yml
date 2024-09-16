@@ -1,11 +1,11 @@
 id: 258701977
-type: way
+type: node
 latitude: 41.15837
 longitude: -104.80169
 postcode: "82009"
 city: Cheyenne
-street: "Stillwater Avenue"
-housenumber: 1637
-phone: "+1-307-514-0248"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.platoscloset.com/"
+street: Stillwater Avenue
+housenumber: "1637"
+phone: +1-307-514-0248
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.platoscloset.com/

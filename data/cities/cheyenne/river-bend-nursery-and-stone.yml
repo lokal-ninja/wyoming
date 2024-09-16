@@ -1,11 +1,11 @@
 id: 237319724
-type: way
+type: node
 latitude: 41.20113
 longitude: -104.82852
 postcode: "82009"
 city: Cheyenne
-street: "Yellowstone Road"
-housenumber: 8908
-phone: "+1 307 638 0147"
+street: Yellowstone Road
+housenumber: "8908"
+phone: +1 307 638 0147
 opening_hours: ""
-website: "https://www.riverbendnurseryandstone.com/"
+website: https://www.riverbendnurseryandstone.com/

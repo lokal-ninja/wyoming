@@ -1,11 +1,11 @@
 id: 260860555
-type: way
+type: node
 latitude: 44.27738
 longitude: -105.49323
 postcode: "82718"
 city: Gillette
-street: "South Douglas Highway"
-housenumber: 1907
-phone: "+1-307-682-1624"
+street: South Douglas Highway
+housenumber: "1907"
+phone: +1-307-682-1624
 opening_hours: ""
-website: "http://mycommoncentsstores.com/StoreHome/124"
+website: http://mycommoncentsstores.com/StoreHome/124

@@ -1,11 +1,11 @@
 id: 491225666
-type: way
+type: node
 latitude: 44.26888
 longitude: -105.50428
 postcode: "82718"
 city: Gillette
-street: "West Lakeway Road"
-housenumber: 101
+street: West Lakeway Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.gilletteprinting.com/"
+website: https://www.gilletteprinting.com/

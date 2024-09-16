@@ -4,8 +4,8 @@ latitude: 42.73451
 longitude: -110.93273
 postcode: "83110"
 city: Afton
-street: "North Washington Street"
-housenumber: 131
-phone: "+1-307-886-3545"
+street: North Washington Street
+housenumber: "131"
+phone: +1-307-886-3545
 opening_hours: ""
-website: "https://www.radioshack.com/home/index.jsp"
+website: https://www.radioshack.com/home/index.jsp

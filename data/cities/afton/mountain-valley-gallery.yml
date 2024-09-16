@@ -4,8 +4,8 @@ latitude: 42.72448
 longitude: -110.93333
 postcode: "83110"
 city: Afton
-street: "Washington Street"
-housenumber: 445
-phone: "+1-307-885-9663"
+street: Washington Street
+housenumber: "445"
+phone: +1-307-885-9663
 opening_hours: ""
-website: "https://mountainvalleygallery.com/"
+website: https://mountainvalleygallery.com/

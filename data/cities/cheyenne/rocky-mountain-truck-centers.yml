@@ -1,11 +1,11 @@
 id: 903667740
-type: way
+type: node
 latitude: 41.11814
 longitude: -104.85521
 postcode: "82001"
 city: Cheyenne
-street: "West Lincolnway"
-housenumber: 2800
+street: West Lincolnway
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""
