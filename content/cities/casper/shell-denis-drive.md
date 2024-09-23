@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /casper/shell-east-f-street/
+url: /casper/shell-denis-drive/
 shop: convenience
 ---
