@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /casper/albertsons-cy-avenue/
+url: /casper/albertsons-east-2nd-street/
 shop: supermarket
 ---
