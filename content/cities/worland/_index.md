@@ -1,6 +1,6 @@
 ---
 title: Worland
 url: /worland/
-latitude: 44.017
-longitude: -107.956
+latitude: 44.016
+longitude: -107.944
 ---
