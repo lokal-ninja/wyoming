@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
-url: /cheyenne/ace-hardware-hynds-boulevard/
+url: /cheyenne/ace-hardware-east-lincolnway/
 shop: doityourself
 ---
